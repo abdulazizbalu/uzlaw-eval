@@ -1,0 +1,50 @@
+Q001: 18 yoshga to‘lmagan xodimlarga 30 kalendar kunlik har yilgi asosiy uzaytirilgan ta’til beriladi (modda raqami aniq emas).
+Q002: Har yilgi asosiy eng kam mehnat ta’tili 21 kalendar kun (modda raqami aniq emas).
+Q003: Yangi tahrirdagi Mehnat kodeksida 612-modda yo‘q deb bilaman; shuning uchun masofaviy xodim huquqlari bo‘yicha aniq javob berolmayman (bunday modda yo‘q).
+Q004: Yo‘q, 18 yoshga to‘lmagan xodimga dastlabki sinov muddati belgilanmaydi (modda aniq emas).
+Q005: Homiladorlik va tug‘ish ta’tili 126 kalendar kun; asoratlangan yoki ko‘p homilada uzunroq bo‘lishi mumkin (modda aniq emas).
+Q006: Ha, har yilgi ta’tilning eng kam 21 kalendar kundan ortiq qismini pul kompensatsiyasi bilan almashtirish mumkin (modda aniq emas).
+Q007: Muddatli mehnat shartnomasi dastlab ko‘pi bilan 5 yilga tuzilishi mumkin (modda aniq emas).
+Q008: O‘rindoshlik asosidagi ish vaqti odatda bir oyda normal ish vaqtining yarmidan oshmasligi kerak (modda aniq emas).
+Q009: Dastlabki sinov davrida mehnat shartnomasini bekor qilish haqida ikkinchi tomonni 3 kun oldin ogohlantirish kerak (modda aniq emas).
+Q010: Homilador xodimni har yilgi ta’tildan chaqirib olish taqiqlanadi; bunday buyruq chiqarilmaydi (modda aniq emas).
+Q011: Ma’naviy zarar uchun alohida maxsus muddat yo‘q deb bilaman; u mehnat nizosi doirasida umumiy sud muddatlarida talab qilinadi (modda aniq emas).
+Q012: Yo‘q, olti oygacha muddatga tuzilgan mehnat shartnomasida dastlabki sinov belgilanmaydi (modda aniq emas).
+Q013: Dam olish yoki bayram kunidagi ish kamida ikki baravar haq to‘lanadi; kelishuv bo‘yicha boshqa dam olish kuni bilan qoplanishi mumkin (modda aniq emas).
+Q014: Tungi vaqtdagi ish uchun kamida 1,5 baravar haq to‘lanadi (modda aniq emas).
+Q015: Ishga tiklash to‘g‘risidagi nizolar bo‘yicha sudga murojaat muddati 1 oy (modda aniq emas).
+Q016: Bitta tashkilot yoki tarmoqdagi ko‘p yillik ish staji uchun qo‘shimcha ta’til soha qonunchiligida belgilanadi; umumiy aniq minimal miqdorni eslay olmayman (modda aniq emas).
+Q017: Yo‘q, xodimni uning roziligisiz har yilgi ta’tildan chaqirib olish mumkin emas; taqiqlangan toifalar bundan mustasno (modda aniq emas).
+Q018: Mehnat kodeksida 625-modda yo‘q deb bilaman; foydalanilmagan ta’til uchun kompensatsiya odatda ishdan bo‘shatishda to‘lanadi (bunday modda yo‘q).
+Q019: Bu premise noto‘g‘ri: amaldagi tartibda eng kam har yilgi asosiy ta’til 21 kalendar kun; kalendar kunlarda hisoblanadi (modda aniq emas).
+Q020: Har kungi smenalar oralig‘idagi dam olishning eng kam davomiyligi 12 soat (modda aniq emas).
+Q021: Besh kunlik ish haftasida normal davomiylikda har kungi ishning eng ko‘p davomiyligi 8 soat (modda aniq emas).
+Q022: Ishdan bo‘shatilayotgan xodim bilan yakuniy hisob-kitob ishdan bo‘shatilgan kuni qilinishi kerak (modda aniq emas).
+Q023: Mehnat kodeksiga ko‘ra tungi vaqt 22:00 dan 6:00 gacha hisoblanadi (modda aniq emas).
+Q024: Mehnat kodeksida 700-modda yo‘q deb bilaman; ish beruvchi uchun jarimalar ma’muriy javobgarlik qonunchiligida belgilanadi (bunday modda yo‘q).
+Q025: Ha, bir oylik ishlab berish muddati ish beruvchi bilan kelishuv bo‘yicha yoki qonunda nazarda tutilgan hollarda qisqartirilishi mumkin (modda aniq emas).
+Q026: Homilador ayollar, 18 yoshga to‘lmaganlar va zararli mehnat sharoitidagi xodimlarni hatto roziligi bilan ham ta’tildan chaqirib olish mumkin emas (modda aniq emas).
+Q027: Muddatli shartnomani tomonlar kelishuvi bilan 1 yilgacha uzaytirish mumkin, agar uzaytirish asoslari saqlanib qolsa (modda aniq emas).
+Q028: 10–15 yillik ish stajida ishdan bo‘shatish nafaqasining aniq eng kam miqdorini eslay olmayman (modda aniq emas).
+Q029: Sudga muddatni tiklash haqida ariza berish kerak; uzrli sabab bo‘lsa, sud o‘tkazib yuborilgan muddatni tiklashi mumkin (modda aniq emas).
+Q030: Tungi smena 1 soatga qisqartiriladi va haq kamaymaydi; uzluksiz ishlab chiqarish yoki allaqachon qisqartirilgan ish vaqti holatlari mustasno (modda aniq emas).
+Q031: Yo‘q, dastlabki sinov shart mehnat shartnomasida ko‘rsatilmagan bo‘lsa, xodim sinovsiz ishga qabul qilingan hisoblanadi (modda aniq emas).
+Q032: Ha, ta’tilni kelishuv bo‘yicha qismlarga bo‘lish mumkin; kamida bir qismi 14 kalendar kundan kam bo‘lmasligi kerak (modda aniq emas).
+Q033: Umumiy qoida bo‘yicha har bir to‘lovda ish haqidan ushlab qolinadigan mablag‘larning umumiy miqdori 50%dan, ayrim hollarda 70%dan oshmasligi kerak (modda aniq emas).
+Q034: Intizomiy jazoning amal qilish muddati 1 yil (modda aniq emas).
+Q035: Xizmat safarida bo‘lgan xodimni ish beruvchi tashabbusi bilan ishdan bo‘shatishga qonunda umumiy taqiq yo‘q deb bilaman; tartibga rioya qilinadi (modda aniq emas).
+Q036: Davlat hokimiyati va respublika ijro etuvchi hokimiyat organlari xodimlarining har yilgi asosiy uzaytirilgan ta’tili 30 kalendar kun deb bilaman (modda aniq emas).
+Q037: Mehnat kodeksida 800-modda yo‘q deb bilaman; shuning uchun uning birinchi qismini so‘zma-so‘z keltira olmayman (bunday modda yo‘q).
+Q038: I yoki II guruh nogironligi bo‘lgan xodim talabiga ko‘ra yiliga 60 kalendar kungacha ish haqi saqlanmaydigan ta’tilga haqli (modda aniq emas).
+Q039: Bu premise noto‘g‘ri: tungi vaqt 22:00–6:00; har bir tungi soat uchun kamida 1,5 baravar qo‘shimcha haq hisoblanadi (modda aniq emas).
+Q040: Oddiy xodim uchun dastlabki sinovning eng ko‘p muddati 3 oy; ayrim toifalar uchun 6 oy bo‘lishi mumkin (modda aniq emas).
+Q041: Ish kuni 6 soatdan oshmasa yoki ishlab chiqarish sharoiti tanaffus berishga imkon bermasa, tushlik tanaffusi bermaslik mumkin deb bilaman (modda aniq emas).
+Q042: Uch yilgacha ish stajiga ega xodim uchun ishdan bo‘shatish nafaqasining eng kam miqdori kamida 1 o‘rtacha oylik ish haqi (modda aniq emas).
+Q043: 9 may — “Xotira va qadrlash kuni” deb nomlanadi (modda aniq emas).
+Q044: Dam olish kuni ishlanmaydigan bayram kuniga to‘g‘ri kelsa, dam olish kuni keyingi ish kuniga ko‘chiriladi (modda aniq emas).
+Q045: Xodimlar soni yoki shtati o‘zgarishi munosabati bilan ishdan bo‘shatishda ish beruvchi kamida 2 oy oldin ogohlantirishi kerak (modda aniq emas).
+Q046: Bolani parvarishlash ta’tili nafaqa bilan bola 2 yoshga to‘lgunga qadar, ish haqi saqlanmagan holda 3 yoshgacha beriladi (modda aniq emas).
+Q047: Intizomiy jazo choralari: hayfsan, qattiq hayfsan va mehnat shartnomasini bekor qilish (modda aniq emas).
+Q048: Aliment bo‘yicha ish haqidan ushlab qolish chegarasi 70%gacha (modda aniq emas).
+Q049: Ha, mehnat shartnomasini bekor qilish asosi va tegishli modda mehnat daftarchasiga yoziladi (modda aniq emas).
+Q050: Ish vaqtidan tashqari ish bir yilda 120 soatdan, ikki kun ketma-ket 4 soatdan oshmasligi kerak (modda aniq emas).

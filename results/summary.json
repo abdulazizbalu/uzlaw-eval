@@ -70,5 +70,29 @@
   "fact": 41,
   "fp": 11,
   "ne": 10
+ },
+ {
+  "model": "DeepSeek",
+  "lang": "RU",
+  "good": 52,
+  "partial": 6,
+  "wrong": 28,
+  "bad": 14,
+  "cit": "2/49",
+  "fact": 42,
+  "fp": 6,
+  "ne": 4
+ },
+ {
+  "model": "DeepSeek",
+  "lang": "UZ",
+  "good": 54,
+  "partial": 12,
+  "wrong": 25,
+  "bad": 9,
+  "cit": "0/25",
+  "fact": 40,
+  "fp": 4,
+  "ne": 10
  }
 ]

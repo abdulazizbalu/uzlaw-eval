@@ -4,7 +4,7 @@ A small, verifiable benchmark of how chat assistants answer questions about the 
 
 ![Results](results/chart_ru_vs_uz.png)
 
-**Headline (v1, 5 Nov 2026):** ChatGPT answered 97/100 correctly in Russian and 94/100 in Uzbek. Gemini dropped from 81 to 61 when switching to Uzbek and started accepting false premises. Claude scored 62 in both languages and hedged instead of citing articles. Full write-up: [results/REPORT.md](results/REPORT.md).
+**Headline (v1, 5 Nov 2026):** ChatGPT answered 97/100 correctly in Russian and 94/100 in Uzbek. Gemini dropped from 81 to 61 when switching to Uzbek and started accepting false premises. Claude scored 62 in both languages and hedged instead of citing articles. DeepSeek scored 52 and 54, invented the content of 6 nonexistent articles in Russian and accepted most false premises. Full write-up: [results/REPORT.md](results/REPORT.md).
 
 ## Dataset
 

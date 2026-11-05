@@ -1,7 +1,7 @@
 import json,collections,os
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-MODELS=[("chatgpt","ChatGPT"),("gemini","Gemini"),("claude","Claude")]
+MODELS=[("chatgpt","ChatGPT"),("gemini","Gemini"),("claude","Claude"),("deepseek","DeepSeek")]
 GOOD={"correct","premise_corrected","correct_refusal"}
 def load(p):
     return [json.loads(l) for l in open(p,encoding="utf-8")] if os.path.exists(p) else None
@@ -19,7 +19,7 @@ for key,name in MODELS:
 json.dump(rows,open("results/summary.json","w"),indent=1,ensure_ascii=False)
 for r in rows: print(r)
 # chart 1: fully right RU vs UZ
-fig,ax=plt.subplots(figsize=(7,4))
+fig,ax=plt.subplots(figsize=(8.5,4.2))
 names=[n for _,n in MODELS]; w=0.38
 ru=[next((r["good"] for r in rows if r["model"]==n and r["lang"]=="RU"),0) for n in names]
 uz=[next((r["good"] for r in rows if r["model"]==n and r["lang"]=="UZ"),0) for n in names]
@@ -32,7 +32,7 @@ ax.set_ylabel("Fully correct answers (of 100)"); ax.set_title("UzLaw-Eval v1: sa
 ax.legend(frameon=False); ax.spines[["top","right"]].set_visible(False)
 plt.tight_layout(); plt.savefig("results/chart_ru_vs_uz.png",dpi=160)
 # chart 2: false premise handling
-fig,ax=plt.subplots(figsize=(7,4))
+fig,ax=plt.subplots(figsize=(8.5,4.2))
 fr=[next((r["fp"] for r in rows if r["model"]==n and r["lang"]=="RU"),0) for n in names]
 fu=[next((r["fp"] for r in rows if r["model"]==n and r["lang"]=="UZ"),0) for n in names]
 b1=ax.bar([i-w/2 for i in x],fr,w,label="Russian",color="#3b6ea5"); b2=ax.bar([i+w/2 for i in x],fu,w,label="Uzbek (Latin)",color="#d9822b")
