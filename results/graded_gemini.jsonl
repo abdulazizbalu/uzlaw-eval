@@ -1,0 +1,100 @@
+{"qid": "Q001", "id": "F043", "type": "fact", "label": "correct", "citation_ok": false, "reason": "30 дней верно, но ссылка на ст. 391 вместо ст. 218."}
+{"qid": "Q002", "id": "F042", "type": "fact", "label": "correct", "citation_ok": true, "reason": "21 календарный день, ст. 217."}
+{"qid": "Q003", "id": "N002", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": true, "reason": "Признаёт отсутствие статьи; число статей указано неверно (581 вместо 593)."}
+{"qid": "Q004", "id": "F010", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Испытание до 18 лет не устанавливается, ст. 129."}
+{"qid": "Q005", "id": "F066", "type": "fact", "label": "correct", "citation_ok": true, "reason": "70 + 56 (70) дней, ст. 404."}
+{"qid": "Q006", "id": "F051", "type": "fact", "label": "partially_correct", "citation_ok": true, "reason": "Верно про часть сверх 21 дня, но не названы отпуска, которые деньгами не заменяются."}
+{"qid": "Q007", "id": "F002", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не более трёх лет, ст. 110."}
+{"qid": "Q008", "id": "F071", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Половина нормы рабочего времени, ст. 437."}
+{"qid": "Q009", "id": "F016", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Письменно за три дня, ст. 132."}
+{"qid": "Q010", "id": "P004", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Верно отвергает возможность отзыва беременной, ст. 232."}
+{"qid": "Q011", "id": "F074", "type": "fact", "label": "wrong", "citation_ok": true, "reason": "Утверждает трёхлетний срок, а ст. 560 срок не устанавливает."}
+{"qid": "Q012", "id": "F011", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Испытание не устанавливается, ст. 129."}
+{"qid": "Q013", "id": "F056", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Двойной размер или другой день отдыха, ст. 263."}
+{"qid": "Q014", "id": "F057", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не менее полуторного размера, ст. 264."}
+{"qid": "Q015", "id": "F073", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Три месяца со дня вручения приказа, ст. 560."}
+{"qid": "Q016", "id": "F046", "type": "fact", "label": "correct", "citation_ok": true, "reason": "2 дня за 5 лет, не более 8, ст. 220."}
+{"qid": "Q017", "id": "F049", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Только с согласия работника, ст. 232."}
+{"qid": "Q018", "id": "N003", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": false, "reason": "Признаёт отсутствие статьи, но компенсацию относит к ст. 233 вместо ст. 234; число статей 581 неверно."}
+{"qid": "Q019", "id": "P002", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Исправляет на 21 календарный день, ст. 217 и 221."}
+{"qid": "Q020", "id": "F038", "type": "fact", "label": "correct", "citation_ok": false, "reason": "12 часов верно, но ссылка на ст. 201 вместо ст. 206."}
+{"qid": "Q021", "id": "F031", "type": "fact", "label": "partially_correct", "citation_ok": false, "reason": "8 часов дано лишь как «как правило», а не как предел; ссылка на ст. 184 вместо ст. 185."}
+{"qid": "Q022", "id": "F022", "type": "fact", "label": "correct", "citation_ok": true, "reason": "В день прекращения договора, ст. 172."}
+{"qid": "Q023", "id": "F033", "type": "fact", "label": "correct", "citation_ok": false, "reason": "22:00–6:00 верно, но ссылка на ст. 190 вместо ст. 188."}
+{"qid": "Q024", "id": "N007", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": true, "reason": "Признаёт отсутствие статьи, отсылает к КоАО; число статей 581 неверно."}
+{"qid": "Q025", "id": "P006", "type": "false_premise", "label": "wrong", "citation_ok": true, "reason": "Отвергает месяц, но называет общий срок два месяца вместо 14 календарных дней."}
+{"qid": "Q026", "id": "F050", "type": "fact", "label": "partially_correct", "citation_ok": true, "reason": "Вместо «особо вредных и особо тяжёлых» сказано «неблагоприятные», не указаны лица с инвалидностью I и II групп."}
+{"qid": "Q027", "id": "P009", "type": "false_premise", "label": "partially_correct", "citation_ok": false, "reason": "Верно про три года, но ошибочно отрицает совокупный предел пять лет при продлении; ст. 113 не о продлении."}
+{"qid": "Q028", "id": "F027", "type": "fact", "label": "correct", "citation_ok": true, "reason": "150%, ст. 173."}
+{"qid": "Q029", "id": "P013", "type": "false_premise", "label": "premise_corrected", "citation_ok": false, "reason": "Исправляет на три месяца; ст. 561 не регулирует восстановление пропущенного срока."}
+{"qid": "Q030", "id": "F034", "type": "fact", "label": "partially_correct", "citation_ok": false, "reason": "Не указано условие «не менее половины смены ночью»; ссылка на ст. 190 вместо ст. 188."}
+{"qid": "Q031", "id": "F009", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Принят без испытания, ст. 129."}
+{"qid": "Q032", "id": "F048", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Одна часть не менее 14 дней, ст. 231."}
+{"qid": "Q033", "id": "F060", "type": "fact", "label": "correct", "citation_ok": true, "reason": "50%, ст. 270."}
+{"qid": "Q034", "id": "F064", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не более одного года, ст. 315."}
+{"qid": "Q035", "id": "F075", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Запрещено, кроме ликвидации, ст. 163 (не упомянут ИП, мелочь)."}
+{"qid": "Q036", "id": "F045", "type": "fact", "label": "correct", "citation_ok": true, "reason": "27 календарных дней, ст. 218."}
+{"qid": "Q037", "id": "N009", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Признаёт отсутствие статьи; число статей 581 неверно."}
+{"qid": "Q038", "id": "F053", "type": "fact", "label": "correct", "citation_ok": true, "reason": "До 14 календарных дней ежегодно, ст. 242."}
+{"qid": "Q039", "id": "P011", "type": "false_premise", "label": "premise_corrected", "citation_ok": false, "reason": "Исправляет на 22:00–6:00 и полуторный размер; ст. 190 указана вместо ст. 188."}
+{"qid": "Q040", "id": "F013", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Три месяца, ст. 130."}
+{"qid": "Q041", "id": "F037", "type": "fact", "label": "wrong", "citation_ok": true, "reason": "Не названо исключение при рабочем дне до 4 часов; ответ подменён правилом о приёме пищи в рабочее время."}
+{"qid": "Q042", "id": "F024", "type": "fact", "label": "correct", "citation_ok": true, "reason": "50%, ст. 173."}
+{"qid": "Q043", "id": "F040", "type": "fact", "label": "correct", "citation_ok": true, "reason": "День памяти и почестей, ст. 208."}
+{"qid": "Q044", "id": "F041", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Перенос на следующий рабочий день, ст. 208."}
+{"qid": "Q045", "id": "F019", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не менее двух месяцев, ст. 165."}
+{"qid": "Q046", "id": "F067", "type": "fact", "label": "correct", "citation_ok": true, "reason": "До двух лет с пособием, до трёх без оплаты, ст. 405."}
+{"qid": "Q047", "id": "F062", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Выговор, штраф 30/50%, увольнение, ст. 312."}
+{"qid": "Q048", "id": "F061", "type": "fact", "label": "correct", "citation_ok": true, "reason": "70%, ст. 270."}
+{"qid": "Q049", "id": "F008", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Основания не записываются, ст. 125."}
+{"qid": "Q050", "id": "F035", "type": "fact", "label": "partially_correct", "citation_ok": false, "reason": "4 часа за два дня верно, но добавлен устаревший предел 120 часов в год; ссылка на ст. 199 вместо ст. 190."}
+{"qid": "Q051", "id": "N010", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Признаёт отсутствие статьи; число статей 581 неверно."}
+{"qid": "Q052", "id": "F047", "type": "fact", "label": "correct", "citation_ok": false, "reason": "Шесть месяцев верно, но ссылка на ст. 226 вместо ст. 227."}
+{"qid": "Q053", "id": "F003", "type": "fact", "label": "correct", "citation_ok": false, "reason": "Неопределённый срок верно, но ссылка на ст. 106 вместо ст. 110."}
+{"qid": "Q054", "id": "F052", "type": "fact", "label": "partially_correct", "citation_ok": true, "reason": "Вывод верный, но добавлено не следующее из закона обоснование про шестидневный календарь."}
+{"qid": "Q055", "id": "F017", "type": "fact", "label": "correct", "citation_ok": true, "reason": "14 календарных дней письменно, ст. 160."}
+{"qid": "Q056", "id": "F039", "type": "fact", "label": "correct", "citation_ok": true, "reason": "День учителя и наставника, ст. 208."}
+{"qid": "Q057", "id": "F059", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не менее 2/3 ставки, ст. 266."}
+{"qid": "Q058", "id": "F069", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Продлить до окончания беременности, ст. 408."}
+{"qid": "Q059", "id": "F023", "type": "fact", "label": "wrong", "citation_ok": true, "reason": "Указан следующий день вместо трёх дней после требования (ст. 172)."}
+{"qid": "Q060", "id": "F063", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Месяц / шесть месяцев / два года, ст. 314."}
+{"qid": "Q061", "id": "F025", "type": "fact", "label": "correct", "citation_ok": true, "reason": "75%, ст. 173."}
+{"qid": "Q062", "id": "F006", "type": "fact", "label": "wrong", "citation_ok": false, "reason": "Нужно согласие обоих родителей, а не одного; ссылка на ст. 412 вместо ст. 118."}
+{"qid": "Q063", "id": "F007", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Свыше пяти дней, ст. 125."}
+{"qid": "Q064", "id": "F068", "type": "fact", "label": "correct", "citation_ok": false, "reason": "Содержание верно, но ссылка на ст. 405 вместо ст. 407."}
+{"qid": "Q065", "id": "P008", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Командировки до 18 лет запрещены, ст. 417."}
+{"qid": "Q066", "id": "F020", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не менее двух недель, ст. 165."}
+{"qid": "Q067", "id": "P005", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Штраф не более 30/50%, ст. 312."}
+{"qid": "Q068", "id": "F044", "type": "fact", "label": "correct", "citation_ok": true, "reason": "30 календарных дней, ст. 218."}
+{"qid": "Q069", "id": "N001", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Признаёт отсутствие статьи; число статей 581 неверно."}
+{"qid": "Q070", "id": "F021", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не менее трёх дней, ст. 165."}
+{"qid": "Q071", "id": "F001", "type": "fact", "label": "partially_correct", "citation_ok": false, "reason": "Пропущены электронная форма и «не менее» двух экземпляров; ссылка на ст. 105 вместо ст. 106."}
+{"qid": "Q072", "id": "N006", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": true, "reason": "Признаёт отсутствие статьи, общее правило по ст. 209 и 263 верно."}
+{"qid": "Q073", "id": "F058", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Средняя заработная плата, ст. 266."}
+{"qid": "Q074", "id": "N004", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Признаёт отсутствие статьи, содержание не выдумано."}
+{"qid": "Q075", "id": "F054", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не реже раза в полмесяца, ст. 253."}
+{"qid": "Q076", "id": "P015", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "До 18 лет испытание не устанавливается, ст. 129."}
+{"qid": "Q077", "id": "F026", "type": "fact", "label": "correct", "citation_ok": true, "reason": "100%, ст. 173."}
+{"qid": "Q078", "id": "F072", "type": "fact", "label": "wrong", "citation_ok": false, "reason": "Указан трёхмесячный срок вместо шестимесячного; ссылка на ст. 545 вместо ст. 554."}
+{"qid": "Q079", "id": "P010", "type": "false_premise", "label": "partially_correct", "citation_ok": true, "reason": "Предпосылку отвергает и даёт 50%, но для алиментов называет 75% вместо 70%."}
+{"qid": "Q080", "id": "P003", "type": "false_premise", "label": "premise_corrected", "citation_ok": false, "reason": "Отвергает 9 часов, но ссылка на ст. 184 вместо ст. 185 и нет упоминания суммированного учёта."}
+{"qid": "Q081", "id": "F065", "type": "fact", "label": "correct", "citation_ok": false, "reason": "Средняя месячная зарплата верно, но предел установлен ст. 340, а не ст. 337."}
+{"qid": "Q082", "id": "F030", "type": "fact", "label": "correct", "citation_ok": false, "reason": "7 часов верно, но ссылка на ст. 184 вместо ст. 185."}
+{"qid": "Q083", "id": "F028", "type": "fact", "label": "wrong", "citation_ok": true, "reason": "Указано 150% вместо 200% при стаже свыше 15 лет."}
+{"qid": "Q084", "id": "P014", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Один год, досрочное снятие, ст. 315."}
+{"qid": "Q085", "id": "N008", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": false, "reason": "Признаёт отсутствие статьи, глава 30 верна, но ст. 520 о домашних работниках."}
+{"qid": "Q086", "id": "F005", "type": "fact", "label": "correct", "citation_ok": true, "reason": "С 15 лет с согласия одного из родителей, ст. 118."}
+{"qid": "Q087", "id": "F055", "type": "fact", "label": "wrong", "citation_ok": true, "reason": "Только двойной размер; по действующей ст. 262 первые два часа в полуторном."}
+{"qid": "Q088", "id": "P001", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Три месяца, шесть только для руководителей, ст. 130."}
+{"qid": "Q089", "id": "F012", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не устанавливается, ст. 129."}
+{"qid": "Q090", "id": "F070", "type": "fact", "label": "wrong", "citation_ok": false, "reason": "Указано 36 ч/7,2 ч вместо 7 ч 30 мин по ст. 416; ссылки на ст. 116 и 184 не относятся."}
+{"qid": "Q091", "id": "P012", "type": "false_premise", "label": "wrong", "citation_ok": true, "reason": "Отвергает 1,25, но называет двойной размер вместо 1,5 за первые два часа."}
+{"qid": "Q092", "id": "F014", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Шесть месяцев, ст. 130."}
+{"qid": "Q093", "id": "F018", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Со следующего дня после получения заявления, ст. 160."}
+{"qid": "Q094", "id": "F029", "type": "fact", "label": "correct", "citation_ok": true, "reason": "40 часов, ст. 182."}
+{"qid": "Q095", "id": "F032", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Не менее одного часа, ст. 187."}
+{"qid": "Q096", "id": "F036", "type": "fact", "label": "correct", "citation_ok": true, "reason": "30 мин – 2 ч, не включается, ст. 204."}
+{"qid": "Q097", "id": "N005", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": false, "reason": "Признаёт отсутствие статьи, но ст. 581 (забастовка) не относится к делу."}
+{"qid": "Q098", "id": "F004", "type": "fact", "label": "correct", "citation_ok": true, "reason": "С 16 лет, ст. 118."}
+{"qid": "Q099", "id": "F015", "type": "fact", "label": "correct", "citation_ok": false, "reason": "Не засчитывается верно, но норма в ч. 2 ст. 130, а не в ст. 131."}
+{"qid": "Q100", "id": "P007", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Только часть сверх 21 дня, ст. 234."}

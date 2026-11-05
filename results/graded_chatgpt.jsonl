@@ -1,0 +1,100 @@
+{"qid": "Q001", "id": "F043", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q002", "id": "F042", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q003", "id": "N002", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 612 нет; упоминание 581 статьи в первоначальной редакции соответствует действительности (ст. 582–593 добавлены ЗРУ-1150 в 2026 г.)."}
+{"qid": "Q004", "id": "F010", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q005", "id": "F066", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q006", "id": "F051", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q007", "id": "F002", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q008", "id": "F071", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: не более половины нормы (ст. 437); не упомянута работа полный день в свободные дни; статья не названа."}
+{"qid": "Q009", "id": "F016", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q010", "id": "P004", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Верно указано, что отзыв беременных из отпуска запрещен (ст. 232)."}
+{"qid": "Q011", "id": "F074", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q012", "id": "F011", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q013", "id": "F056", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q014", "id": "F057", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q015", "id": "F073", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q016", "id": "F046", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q017", "id": "F049", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q018", "id": "N003", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": true, "reason": "Отсутствие ст. 625 признано, содержание не выдумано; верно отослано к ст. 234 о компенсации при увольнении."}
+{"qid": "Q019", "id": "P002", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка исправлена (21 календарный день); правило об исключении праздников точнее в ст. 221, но основная ссылка ст. 217 верна."}
+{"qid": "Q020", "id": "F038", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q021", "id": "F031", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q022", "id": "F022", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q023", "id": "F033", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q024", "id": "N007", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Модель признала отсутствие статьи и не выдумала содержание."}
+{"qid": "Q025", "id": "P006", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Ложная предпосылка явно отвергнута, дано верное правило."}
+{"qid": "Q026", "id": "F050", "type": "fact", "label": "partially_correct", "citation_ok": true, "reason": "Вместо «особо вредных и особо тяжелых» условий (ст. 232) названы «вредные и опасные», что шире закона; запрет для инвалидов I-II групп приписан ст. 232, хотя он в ст. 429."}
+{"qid": "Q027", "id": "P009", "type": "false_premise", "label": "partially_correct", "citation_ok": false, "reason": "Верно, что совокупный срок не более 5 лет, но предпосылка не опровергнута: не сказано, что изначально договор заключается не более чем на 3 года; правило о 5 годах находится в ст. 111, а не в ст. 110."}
+{"qid": "Q028", "id": "F027", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q029", "id": "P013", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка исправлена (3 месяца, ст. 560); восстановление срока судом прямо в ТК не закреплено для этого случая (только ст. 556 для обжалования решений КТС), но это не противоречит закону."}
+{"qid": "Q030", "id": "F034", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q031", "id": "F009", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q032", "id": "F048", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q033", "id": "F060", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q034", "id": "F064", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q035", "id": "F075", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q036", "id": "F045", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q037", "id": "N009", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Модель признала отсутствие статьи и не выдумала содержание."}
+{"qid": "Q038", "id": "F053", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q039", "id": "P011", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка исправлена: ночь с 22:00 до 6:00, оплата не менее полуторной; статья не названа."}
+{"qid": "Q040", "id": "F013", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q041", "id": "F037", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q042", "id": "F024", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q043", "id": "F040", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q044", "id": "F041", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q045", "id": "F019", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q046", "id": "F067", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q047", "id": "F062", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q048", "id": "F061", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q049", "id": "F008", "type": "fact", "label": "correct", "citation_ok": false, "reason": "Ответ верен, но правило о незаписи оснований увольнения содержится в ст. 125, а не в ст. 171 (выдача трудовой книжки)."}
+{"qid": "Q050", "id": "F035", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Верно: не более 4 часов в течение двух дней подряд (ст. 190 в ред. ЗРУ-1095); пропущено ограничение 2 часа в день для неблагоприятных условий."}
+{"qid": "Q051", "id": "N010", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Модель признала отсутствие статьи и не выдумала содержание."}
+{"qid": "Q052", "id": "F047", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q053", "id": "F003", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q054", "id": "F052", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: воскресенье не учитывается при выплате компенсации (ч. 3 ст. 234); статья не названа."}
+{"qid": "Q055", "id": "F017", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q056", "id": "F039", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Верно, 1 октября праздник (ст. 208); название дано с небольшим отклонением («учителей и наставников» вместо «учителя и наставника»)."}
+{"qid": "Q057", "id": "F059", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q058", "id": "F069", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q059", "id": "F023", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q060", "id": "F063", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q061", "id": "F025", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q062", "id": "F006", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Верно: согласие родителей и разрешение органа опеки (ст. 118); «обоих» прямо не сказано, но множественное число по смыслу совпадает."}
+{"qid": "Q063", "id": "F007", "type": "fact", "label": "partially_correct", "citation_ok": null, "reason": "Главное верно (свыше пяти дней), но пропущено исключение для работодателей-физлиц и добавлено условие «если работа основная», которого нет в ст. 125."}
+{"qid": "Q064", "id": "F068", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q065", "id": "P008", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: командировки лиц до 18 лет запрещены даже с согласия родителей (ст. 417); статья не названа."}
+{"qid": "Q066", "id": "F020", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q067", "id": "P005", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Ложная предпосылка явно отвергнута, дано верное правило."}
+{"qid": "Q068", "id": "F044", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q069", "id": "N001", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Отсутствие статьи 600 признано, но ложное попутное утверждение: «Кодекс содержит 581 статью», в действующей редакции 593 (ст. 582–593 введены ЗРУ-1150)."}
+{"qid": "Q070", "id": "F021", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q071", "id": "F001", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: письменная (бумажная или электронная) форма; сказано «два экземпляра» вместо «не менее двух», мелкая неточность."}
+{"qid": "Q072", "id": "N006", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Модель признала отсутствие статьи и не выдумала содержание."}
+{"qid": "Q073", "id": "F058", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q074", "id": "N004", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Модель признала отсутствие статьи и не выдумала содержание."}
+{"qid": "Q075", "id": "F054", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q076", "id": "P015", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Ложная предпосылка явно отвергнута, дано верное правило."}
+{"qid": "Q077", "id": "F026", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q078", "id": "F072", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q079", "id": "P010", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: общий предел удержаний 50% (ст. 270); статья не названа."}
+{"qid": "Q080", "id": "P003", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка о 9 часах отвергнута, указано 8 часов при поденном учете; статья не названа."}
+{"qid": "Q081", "id": "F065", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q082", "id": "F030", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q083", "id": "F028", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q084", "id": "P014", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Ложная предпосылка явно отвергнута, дано верное правило."}
+{"qid": "Q085", "id": "N008", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Модель признала отсутствие статьи и не выдумала содержание."}
+{"qid": "Q086", "id": "F005", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q087", "id": "F055", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q088", "id": "P001", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Ложная предпосылка явно отвергнута, дано верное правило."}
+{"qid": "Q089", "id": "F012", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q090", "id": "F070", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: 7 ч 30 мин (ст. 416), 36 часов в неделю (ст. 415); статья не названа."}
+{"qid": "Q091", "id": "P012", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Ложная предпосылка явно отвергнута, дано верное правило."}
+{"qid": "Q092", "id": "F014", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q093", "id": "F018", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q094", "id": "F029", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q095", "id": "F032", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q096", "id": "F036", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Ответ совпадает с эталоном; статья не названа."}
+{"qid": "Q097", "id": "N005", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": true, "reason": "Отсутствие ст. 650 признано; корректная отсылка к ст. 165 о сроках предупреждения."}
+{"qid": "Q098", "id": "F004", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q099", "id": "F015", "type": "fact", "label": "correct", "citation_ok": true, "reason": "Ответ совпадает с эталоном, ссылка на статью верна."}
+{"qid": "Q100", "id": "P007", "type": "false_premise", "label": "premise_corrected", "citation_ok": true, "reason": "Ложная предпосылка явно отвергнута, дано верное правило."}

@@ -1,0 +1,74 @@
+[
+ {
+  "model": "ChatGPT",
+  "lang": "RU",
+  "good": 97,
+  "partial": 3,
+  "wrong": 0,
+  "bad": 0,
+  "cit": "70/72",
+  "fact": 73,
+  "fp": 14,
+  "ne": 10
+ },
+ {
+  "model": "ChatGPT",
+  "lang": "UZ",
+  "good": 94,
+  "partial": 4,
+  "wrong": 2,
+  "bad": 0,
+  "cit": "57/59",
+  "fact": 69,
+  "fp": 15,
+  "ne": 10
+ },
+ {
+  "model": "Gemini",
+  "lang": "RU",
+  "good": 81,
+  "partial": 9,
+  "wrong": 10,
+  "bad": 0,
+  "cit": "73/96",
+  "fact": 60,
+  "fp": 11,
+  "ne": 10
+ },
+ {
+  "model": "Gemini",
+  "lang": "UZ",
+  "good": 61,
+  "partial": 10,
+  "wrong": 25,
+  "bad": 4,
+  "cit": "41/94",
+  "fact": 46,
+  "fp": 6,
+  "ne": 9
+ },
+ {
+  "model": "Claude",
+  "lang": "RU",
+  "good": 62,
+  "partial": 10,
+  "wrong": 26,
+  "bad": 2,
+  "cit": "none",
+  "fact": 41,
+  "fp": 11,
+  "ne": 10
+ },
+ {
+  "model": "Claude",
+  "lang": "UZ",
+  "good": 62,
+  "partial": 6,
+  "wrong": 30,
+  "bad": 2,
+  "cit": "none",
+  "fact": 41,
+  "fp": 11,
+  "ne": 10
+ }
+]

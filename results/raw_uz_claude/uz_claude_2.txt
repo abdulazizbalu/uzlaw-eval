@@ -1,0 +1,99 @@
+Q051: Mehnat kodeksi 581 moddadan iborat, shuning uchun 594-modda mavjud emas (modda mavjud emas).
+
+Q052: Birinchi ish yili uchun ta’tilga huquq 6 oy uzluksiz ishlagandan keyin paydo bo’ladi (modda aniq emas).
+
+Q053: Muddati ko’rsatilmagan mehnat shartnomasi nomuayyan muddatga tuzilgan hisoblanadi (modda aniq emas).
+
+Q054: Ha, ta’til kalendar kunlarda hisoblanadi, shuning uchun yakshanbalar ham hisobga olinadi. Ishlanmaydigan bayram kunlari hisobga olinmaydi (modda aniq emas).
+
+Q055: Umumiy qoidaga ko’ra xodim ish beruvchini 2 hafta oldin yozma ogohlantiradi, lekin bu muddatga to’liq ishonchim yo’q (modda aniq emas).
+
+Q056: Ha, 1 oktyabr ishlanmaydigan bayram kuni, u O’qituvchi va murabbiylar kuni (modda aniq emas).
+
+Q057: Bunday bekor turib qolish, mening bilishimcha, tarif stavkasi (maosh)ning kamida uchdan ikki qismi miqdorida to’lanadi. Bu miqdorga to’liq ishonchim yo’q (modda aniq emas).
+
+Q058: Xodimaning yozma arizasiga ko’ra ish beruvchi shartnoma muddatini homiladorlik tugaguncha uzaytirishi shart. Homiladorlik va tug’ish ta’tili tugaguncha uzaytiriladimi, bunga to’liq ishonchim yo’q (modda aniq emas).
+
+Q059: Hisob-kitob xodim talab qilgandan keyingi kundan kechiktirmay to’lanadi (modda aniq emas).
+
+Q060: Intizomiy jazo nojo’ya harakat aniqlangan kundan boshlab 1 oy ichida qo’llaniladi. Xodimning kasallik va ta’til davri bu muddatga kirmaydi. Nojo’ya harakat sodir etilgan kundan 6 oydan, taftish yoki tekshiruv natijasida aniqlangan bo’lsa 2 yildan kechiktirilmaydi (modda aniq emas).
+
+Q061: Mening bilishimcha, o’rtacha oylik ish haqining kamida 1,3 baravari, lekin bu raqamga ishonchim yo’q (modda aniq emas).
+
+Q062: Ota-onadan birining (yoki uning o’rnini bosuvchi shaxsning) yozma roziligi va vasiylik va homiylik organining ruxsati talab qilinadi. Ish bolaning sog’lig’i va ma’naviy rivojlanishiga zarar yetkazmasligi kerak (modda aniq emas).
+
+Q063: Ish beruvchi 5 kundan ortiq ishlagan barcha xodimlarga, agar bu ish ular uchun asosiy ish joyi bo’lsa, mehnat daftarchasini yuritadi. Hozir mehnat daftarchasi asosan elektron shaklda yuritiladi (modda aniq emas).
+
+Q064: Kichik yoshdagi (mening bilishimcha, 2 yoshga to’lmagan) bolasi bor ayolga har 3 soatda kamida 30 daqiqalik tanaffus beriladi. Bu tanaffuslar ish vaqtiga kiritiladi va to’lanadi (modda aniq emas).
+
+Q065: Bu mumkin emas, chunki 18 yoshga to’lmagan xodimni xizmat safariga yuborish ota-ona roziligi bilan ham taqiqlangan. Ijodiy xodimlar uchun istisno borligiga ishonchim yo’q (modda aniq emas).
+
+Q066: Bu holatda ish beruvchi xodimni kamida 2 oy oldin ogohlantiradi, lekin yangi kodeks bo’yicha to’liq ishonchim yo’q (modda aniq emas).
+
+Q067: Bunday jarimaga yo’l qo’yilmaydi, chunki intizomiy jarima o’rtacha oylik ish haqining 30 foizidan oshmasligi kerak (modda aniq emas).
+
+Q068: I va II guruh nogironligi bo’lgan xodimlarga 30 kalendar kunlik ta’til beriladi (modda aniq emas).
+
+Q069: 600-modda mavjud emas, chunki kodeks 581 moddadan iborat (modda mavjud emas).
+
+Q070: Aybli harakatlar uchun ishdan bo’shatishda ogohlantirish talab qilinmaydi (modda aniq emas).
+
+Q071: Mehnat shartnomasi yozma shaklda, ikki nusxada tuziladi va har bir tomonda bittadan nusxa qoladi (modda aniq emas).
+
+Q072: 677-modda mavjud emas. Bayram kunidagi ish kamida ikki baravar to’lanadi yoki xodimga boshqa dam olish kuni beriladi (modda mavjud emas).
+
+Q073: Ish beruvchi aybi bilan bekor turib qolgan vaqt to’liq, ya’ni kamida o’rtacha ish haqi miqdorida to’lanadi. Bu miqdorga to’liq ishonchim yo’q (modda aniq emas).
+
+Q074: 640-modda mavjud emas. Autsorsingning alohida tartibga solinishi haqida aniq ma’lumotim yo’q (modda mavjud emas).
+
+Q075: Ish haqi kamida oyiga bir marta, jamoa shartnomasi yoki ichki hujjatlarda belgilangan muddatlarda to’lanadi. Yangi kodeksda oyiga ikki marta deb belgilanganmi, bunga to’liq ishonchim yo’q (modda aniq emas).
+
+Q076: Sinovni uzaytirib bo’lmaydi, chunki 18 yoshga to’lmagan xodimga dastlabki sinov umuman belgilanmaydi (modda aniq emas).
+
+Q077: Mening bilishimcha, o’rtacha oylik ish haqining kamida 1,6 baravari, lekin bu raqamga ishonchim yo’q (modda aniq emas).
+
+Q078: Mening bilishimcha, xodim huquqi buzilganini bilgan kundan boshlab 3 oy ichida murojaat qiladi, lekin yangi kodeks bo’yicha to’liq ishonchim yo’q (modda aniq emas).
+
+Q079: Bunday rasmiylashtirish mumkin emas, chunki ushlab qolish umumiy qoidaga ko’ra 20 foizdan, qonunda nazarda tutilgan hollarda 50 foizdan oshmaydi. Qarzni ushlab qolish uchun odatda xodimning roziligi yoki qonunda belgilangan asos kerak (modda aniq emas).
+
+Q080: Savoldagi asos noto’g’ri, chunki 5 × 9 soat haftalik 40 soatlik normadan oshadi. Bunday jadvalni faqat jamlab hisobga olish yo’li bilan, hisob davridagi norma oshmagan holda belgilash mumkin, aks holda ortiqcha soatlar ish vaqtidan tashqari ish hisoblanadi (modda aniq emas).
+
+Q081: Umumiy qoidaga ko’ra xodim to’g’ridan-to’g’ri haqiqiy zarar uchun o’z o’rtacha oylik ish haqi doirasida javob beradi. To’liq moddiy javobgarlik faqat qonunda nazarda tutilgan hollarda qo’llaniladi (modda aniq emas).
+
+Q082: Olti kunlik ish haftasida kunlik ish 7 soatdan oshmaydi (modda aniq emas).
+
+Q083: Bu miqdorni aniq bilmayman, taxminan o’rtacha oylik ish haqining 2,5–3 baravari (modda aniq emas).
+
+Q084: Savoldagi asos noto’g’ri, chunki intizomiy jazo 2 yil emas, 1 yil amal qiladi. Ish beruvchi jazoni o’z tashabbusi bilan yoki xodim, uning rahbari yoki xodimlar vakillik organining iltimosiga ko’ra muddatidan oldin olib tashlashi mumkin (modda aniq emas).
+
+Q085: 735-modda mavjud emas, chunki kodeks 581 moddadan iborat (modda mavjud emas).
+
+Q086: O’quvchini, mening bilishimcha, 14 yoshdan ota-onadan birining yozma roziligi bilan qabul qilish mumkin. Ish yengil bo’lishi, sog’liqqa zarar yetkazmasligi va o’qishga xalaqit bermasligi kerak. Yosh chegarasiga to’liq ishonchim yo’q (modda aniq emas).
+
+Q087: Ish vaqtidan tashqari ish kamida ikki baravar miqdorda to’lanadi (modda aniq emas).
+
+Q088: Savoldagi asos noto’g’ri, chunki oddiy xodim, shu jumladan oddiy menejer uchun sinov muddati 3 oydan oshmaydi (modda aniq emas).
+
+Q089: Yo’q, homilador ayolga dastlabki sinov belgilanmaydi (modda aniq emas).
+
+Q090: Mening bilishimcha, 16–18 yoshli xodim uchun haftalik norma 36 soat va kunlik ish 7 soatdan oshmaydi, lekin to’liq ishonchim yo’q (modda aniq emas).
+
+Q091: Yo’q, 25 foizlik qo’shimcha noto’g’ri, chunki ish vaqtidan tashqari ish kamida ikki baravar to’lanadi (modda aniq emas).
+
+Q092: Rahbar va bosh buxgalter uchun alohida uzaytirilgan muddat borligiga ishonchim komil emas. Umumiy eng ko’p muddat 3 oy (modda aniq emas).
+
+Q093: Ogohlantirish muddati xodim arizasini topshirgan kunning ertasidan boshlab hisoblanadi (modda aniq emas).
+
+Q094: Haftalik ish vaqtining normal davomiyligi 40 soat (modda aniq emas).
+
+Q095: Bayram arafasida ish kuni 1 soatga qisqartiriladi (modda aniq emas).
+
+Q096: Dam olish va ovqatlanish tanaffusi kamida 30 daqiqa va ko’pi bilan 2 soat bo’ladi. U ish vaqtiga kiritilmaydi (modda aniq emas).
+
+Q097: 650-modda mavjud emas, chunki kodeks 581 moddadan iborat (modda mavjud emas).
+
+Q098: Umumiy qoidaga ko’ra ishga 16 yoshdan qabul qilinadi (modda aniq emas).
+
+Q099: Yo’q, kasallik davri kabi xodim ishda bo’lmagan vaqt sinov muddatiga kiritilmaydi (modda aniq emas).
+
+Q100: Bu mumkin emas, chunki eng kam 21 kunlik ta’til pul bilan almashtirilmaydi. Faqat 21 kundan ortiq qismini almashtirish mumkin (modda aniq emas).

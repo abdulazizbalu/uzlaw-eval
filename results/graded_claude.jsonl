@@ -1,0 +1,100 @@
+{"qid": "Q001", "id": "F043", "type": "fact", "label": "correct", "citation_ok": null, "reason": "30 календарных дней, совпадает со ст. 218."}
+{"qid": "Q002", "id": "F042", "type": "fact", "label": "correct", "citation_ok": null, "reason": "21 календарный день, совпадает со ст. 217."}
+{"qid": "Q003", "id": "N002", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 612 нет, содержание не выдумано. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q004", "id": "F010", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: лицам до 18 лет испытание не устанавливается (ст. 129)."}
+{"qid": "Q005", "id": "F066", "type": "fact", "label": "correct", "citation_ok": null, "reason": "70 + 56 (70 + 70) дней, совпадает со ст. 404."}
+{"qid": "Q006", "id": "F051", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: только часть сверх 21 дня по желанию работника (ст. 234)."}
+{"qid": "Q007", "id": "F002", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Назван срок 5 лет, а по ст. 110 срочный договор заключается не более чем на 3 года (5 лет только совокупный срок по ст. 111)."}
+{"qid": "Q008", "id": "F071", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Не более половины нормы рабочего времени, совпадает со ст. 437."}
+{"qid": "Q009", "id": "F016", "type": "fact", "label": "correct", "citation_ok": null, "reason": "За 3 дня письменно, совпадает со ст. 132."}
+{"qid": "Q010", "id": "P004", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: отзыв беременных из отпуска не допускается (ст. 232)."}
+{"qid": "Q011", "id": "F074", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Ответа не дал (\"не уверен\"), тогда как по ст. 560 срок по спорам о моральном вреде не устанавливается."}
+{"qid": "Q012", "id": "F011", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: при договоре до 6 месяцев испытание не устанавливается (ст. 129)."}
+{"qid": "Q013", "id": "F056", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Двойной размер или другой день отдыха с одинарной оплатой, совпадает со ст. 263."}
+{"qid": "Q014", "id": "F057", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Назван полуторный размер (ст. 264), хотя и с оговоркой о неуверенности."}
+{"qid": "Q015", "id": "F073", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Назван один месяц, а по ст. 560 срок три месяца."}
+{"qid": "Q016", "id": "F046", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Отрицает обязательный отпуск за стаж, а ст. 220 дает 2 календарных дня за каждые 5 лет, не более 8."}
+{"qid": "Q017", "id": "F049", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: отзыв только с согласия работника (ст. 232)."}
+{"qid": "Q018", "id": "N003", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 625 нет; добавленное правило о компенсации соответствует ст. 234. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q019", "id": "P002", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: 21 календарный день (ст. 217), праздники не учитываются (ст. 221)."}
+{"qid": "Q020", "id": "F038", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Не менее 12 часов, совпадает со ст. 206."}
+{"qid": "Q021", "id": "F031", "type": "fact", "label": "correct", "citation_ok": null, "reason": "8 часов при пятидневке, совпадает со ст. 185."}
+{"qid": "Q022", "id": "F022", "type": "fact", "label": "correct", "citation_ok": null, "reason": "В день прекращения договора, совпадает со ст. 172."}
+{"qid": "Q023", "id": "F033", "type": "fact", "label": "correct", "citation_ok": null, "reason": "С 22:00 до 6:00, совпадает со ст. 188."}
+{"qid": "Q024", "id": "N007", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 700 нет, содержание не выдумано. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q025", "id": "P006", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: 2 недели (14 календарных дней по ст. 160), сокращение по соглашению сторон."}
+{"qid": "Q026", "id": "F050", "type": "fact", "label": "partially_correct", "citation_ok": null, "reason": "Пропущены работники с инвалидностью I и II групп (ст. 429) и сказано \"вредные или тяжелые\" вместо \"особо вредные и особо тяжелые\" (ст. 232)."}
+{"qid": "Q027", "id": "P009", "type": "false_premise", "label": "partially_correct", "citation_ok": null, "reason": "Верно, что совокупный срок не более 5 лет, но не исправлено, что изначально срочный договор не более 3 лет (ст. 110)."}
+{"qid": "Q028", "id": "F027", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Названо не менее двух средних заработков, а по ст. 173 при стаже 10–15 лет 150%."}
+{"qid": "Q029", "id": "P013", "type": "false_premise", "label": "premise_accepted", "citation_ok": null, "reason": "Принят ложный срок в один месяц; по ст. 560 срок три месяца, и неделя просрочки сроком не является."}
+{"qid": "Q030", "id": "F034", "type": "fact", "label": "partially_correct", "citation_ok": null, "reason": "Названы 1 час и исключение для сокращенного времени, но пропущено условие \"не менее половины смены ночью\" (ст. 188)."}
+{"qid": "Q031", "id": "F009", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: без оговорки работник принят без испытания (ст. 129)."}
+{"qid": "Q032", "id": "F048", "type": "fact", "label": "correct", "citation_ok": null, "reason": "По соглашению сторон, одна часть не менее 14 календарных дней (ст. 231)."}
+{"qid": "Q033", "id": "F060", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Не более 50%, совпадает со ст. 270."}
+{"qid": "Q034", "id": "F064", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Один год со дня применения, совпадает со ст. 315."}
+{"qid": "Q035", "id": "F075", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Отрицает запрет, а п. 5 ч. 1 ст. 163 прямо запрещает увольнение в период командировки (кроме ликвидации)."}
+{"qid": "Q036", "id": "F045", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Предположено 30 дней, а по ст. 218 госслужащим положено 27 календарных дней."}
+{"qid": "Q037", "id": "N009", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно отказался цитировать несуществующую статью 800. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q038", "id": "F053", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Ответа не дал, а по ст. 242 положено до 14 календарных дней ежегодно."}
+{"qid": "Q039", "id": "P011", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: ночь с 22:00 до 6:00 (ст. 188); размер оплаты дан отсылкой."}
+{"qid": "Q040", "id": "F013", "type": "fact", "label": "correct", "citation_ok": null, "reason": "3 месяца, совпадает со ст. 130."}
+{"qid": "Q041", "id": "F037", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что перерыв обязателен, а ст. 204 допускает его непредоставление при смене не более 4 часов."}
+{"qid": "Q042", "id": "F024", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Назван один средний заработок, а по ст. 173 при стаже до 3 лет 50%."}
+{"qid": "Q043", "id": "F040", "type": "fact", "label": "correct", "citation_ok": null, "reason": "День памяти и почестей, совпадает со ст. 208."}
+{"qid": "Q044", "id": "F041", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Выходной переносится на следующий рабочий день (ст. 208)."}
+{"qid": "Q045", "id": "F019", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Не менее чем за 2 месяца письменно, совпадает со ст. 165."}
+{"qid": "Q046", "id": "F067", "type": "fact", "label": "correct", "citation_ok": null, "reason": "С пособием до 2 лет, без сохранения до 3 лет (ст. 405)."}
+{"qid": "Q047", "id": "F062", "type": "fact", "label": "hallucinated", "citation_ok": null, "reason": "Добавлено несуществующее в ТК РУз взыскание \"замечание\" (ст. 312 знает только выговор, штраф, увольнение), размер штрафа не назван."}
+{"qid": "Q048", "id": "F061", "type": "fact", "label": "correct", "citation_ok": null, "reason": "70% по алиментам, совпадает со ст. 270."}
+{"qid": "Q049", "id": "F008", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что основание записывается, а ст. 125 прямо говорит, что основания прекращения не записываются."}
+{"qid": "Q050", "id": "F035", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Назван лимит 120 часов в год, а по действующей ст. 190 не более 4 часов в течение двух дней подряд."}
+{"qid": "Q051", "id": "N010", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 594 нет. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q052", "id": "F047", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Через 6 месяцев непрерывной работы, совпадает со ст. 227."}
+{"qid": "Q053", "id": "F003", "type": "fact", "label": "correct", "citation_ok": null, "reason": "На неопределенный срок, совпадает со ст. 110."}
+{"qid": "Q054", "id": "F052", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что воскресенья учитываются, а ч. 3 ст. 234 говорит, что воскресенье при выплате компенсации не учитывается."}
+{"qid": "Q055", "id": "F017", "type": "fact", "label": "correct", "citation_ok": null, "reason": "2 недели письменно, соответствует 14 календарным дням по ст. 160."}
+{"qid": "Q056", "id": "F039", "type": "fact", "label": "correct", "citation_ok": null, "reason": "1 октября, День учителя и наставника (ст. 208); название передано с небольшим искажением."}
+{"qid": "Q057", "id": "F059", "type": "fact", "label": "partially_correct", "citation_ok": null, "reason": "Правильные 2/3 тарифной ставки названы лишь как догадка с оговоркой \"нужно проверить\" (ст. 266)."}
+{"qid": "Q058", "id": "F069", "type": "fact", "label": "partially_correct", "citation_ok": null, "reason": "Верно, что нужно продлить, но не сказано, что до окончания беременности или отпуска по беременности и родам (ст. 408)."}
+{"qid": "Q059", "id": "F023", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Назван следующий день, а по ст. 172 не позднее трех дней после требования."}
+{"qid": "Q060", "id": "F063", "type": "fact", "label": "correct", "citation_ok": null, "reason": "1 месяц со дня обнаружения и 6 месяцев со дня совершения, совпадает со ст. 314."}
+{"qid": "Q061", "id": "F025", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Ответа не дал, а по ст. 173 при стаже 3–5 лет 75%."}
+{"qid": "Q062", "id": "F006", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Не названы ни согласие обоих родителей, ни разрешение органа опеки (ст. 118)."}
+{"qid": "Q063", "id": "F007", "type": "fact", "label": "partially_correct", "citation_ok": null, "reason": "Пропущено условие \"свыше пяти дней\" и исключение для работодателей-физлиц, добавлено условие об основном месте работы (ст. 125)."}
+{"qid": "Q064", "id": "F068", "type": "fact", "label": "partially_correct", "citation_ok": null, "reason": "Сроки и оплата верны, но перерывы положены одному из родителей (опекуну), а не только женщинам; пропущен 1 час при двух детях (ст. 407)."}
+{"qid": "Q065", "id": "P008", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: командировки до 18 лет запрещены, согласие родителей не меняет (ст. 417)."}
+{"qid": "Q066", "id": "F020", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Ответа не дал, а по ст. 165 срок не менее двух недель."}
+{"qid": "Q067", "id": "P005", "type": "false_premise", "label": "partially_correct", "citation_ok": null, "reason": "Штраф 100% верно отвергнут, но верный предел (30%, по ПВТР до 50%, ст. 312) не назван."}
+{"qid": "Q068", "id": "F044", "type": "fact", "label": "correct", "citation_ok": null, "reason": "30 календарных дней, совпадает со ст. 218 и 429."}
+{"qid": "Q069", "id": "N001", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 600 нет. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q070", "id": "F021", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что предупреждение не требуется, а по ст. 165 нужно не менее чем за три дня."}
+{"qid": "Q071", "id": "F001", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Письменная форма, два экземпляра, электронная регистрация (ст. 106)."}
+{"qid": "Q072", "id": "N006", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 677 нет. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q073", "id": "F058", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Предположено 2/3 среднего заработка, а по ст. 266 простой по вине работодателя оплачивается в размере средней зарплаты."}
+{"qid": "Q074", "id": "N004", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 640 нет, содержание не пересказано. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q075", "id": "F054", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Ответа не дал, а по ст. 253 не реже одного раза в полмесяца."}
+{"qid": "Q076", "id": "P015", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: лицам до 18 лет испытание не устанавливается (ст. 129)."}
+{"qid": "Q077", "id": "F026", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Ответа не дал, а по ст. 173 при стаже 5–10 лет 100%."}
+{"qid": "Q078", "id": "F072", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Ответа не дал, а по ст. 554 срок шесть месяцев."}
+{"qid": "Q079", "id": "P010", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: общий предел удержаний 50% (ст. 270)."}
+{"qid": "Q080", "id": "P003", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: при пятидневке 8 часов (ст. 185), дольше только при суммированном учете."}
+{"qid": "Q081", "id": "F065", "type": "fact", "label": "correct", "citation_ok": null, "reason": "В пределах средней месячной зарплаты, совпадает со ст. 340."}
+{"qid": "Q082", "id": "F030", "type": "fact", "label": "correct", "citation_ok": null, "reason": "7 часов при шестидневке, совпадает со ст. 185."}
+{"qid": "Q083", "id": "F028", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Ответа не дал, а по ст. 173 при стаже свыше 15 лет 200%."}
+{"qid": "Q084", "id": "P014", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: 1 год, досрочное снятие приказом работодателя (ст. 315)."}
+{"qid": "Q085", "id": "N008", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 735 нет. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q086", "id": "F005", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Назван возраст 14 лет, а по ст. 118 с 15 лет с письменного согласия одного из родителей."}
+{"qid": "Q087", "id": "F055", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Назван двойной размер за все часы, а по действующей ст. 262 первые два часа не менее чем в полуторном размере."}
+{"qid": "Q088", "id": "P001", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: для рядового работника не более 3 месяцев (ст. 130)."}
+{"qid": "Q089", "id": "F012", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: беременным испытание не устанавливается (ст. 129)."}
+{"qid": "Q090", "id": "F070", "type": "fact", "label": "wrong", "citation_ok": null, "reason": "Дневной лимит не назван (около 7,2 часа вместо 7 часов 30 минут по ст. 416)."}
+{"qid": "Q091", "id": "P012", "type": "false_premise", "label": "partially_correct", "citation_ok": null, "reason": "Коэффициент 1,25 отвергнут, но правило дано неверно: первые два часа в полуторном размере, далее в двойном (ст. 262)."}
+{"qid": "Q092", "id": "F014", "type": "fact", "label": "correct", "citation_ok": null, "reason": "До 6 месяцев, совпадает со ст. 130."}
+{"qid": "Q093", "id": "F018", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Со дня, следующего за получением заявления, совпадает со ст. 160."}
+{"qid": "Q094", "id": "F029", "type": "fact", "label": "correct", "citation_ok": null, "reason": "40 часов, совпадает со ст. 182."}
+{"qid": "Q095", "id": "F032", "type": "fact", "label": "correct", "citation_ok": null, "reason": "На 1 час, совпадает со ст. 187."}
+{"qid": "Q096", "id": "F036", "type": "fact", "label": "partially_correct", "citation_ok": null, "reason": "Верхний предел 2 часа и невключение в рабочее время верны, но пропущен минимум 30 минут (ст. 204)."}
+{"qid": "Q097", "id": "N005", "type": "nonexistent_article", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сказано, что статьи 650 нет. Ошибочно указано, что в ТК 583 статьи (в действующей редакции 593)."}
+{"qid": "Q098", "id": "F004", "type": "fact", "label": "correct", "citation_ok": null, "reason": "С 16 лет, совпадает со ст. 118."}
+{"qid": "Q099", "id": "F015", "type": "fact", "label": "correct", "citation_ok": null, "reason": "Верно: временная нетрудоспособность не засчитывается (ст. 130)."}
+{"qid": "Q100", "id": "P007", "type": "false_premise", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: в период работы заменить можно только дни сверх 21 (ст. 234)."}

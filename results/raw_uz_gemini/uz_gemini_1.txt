@@ -1,0 +1,52 @@
+Ответ Gemini
+
+Q001: 18 yoshga to'lmagan xodimlarga kamida o'ttiz kalendar kunidan iborat har yilgi asosiy uzaytirilgan ta'til beriladi (Mehnat kodeksining 220-moddasi).
+Q002: O'zbekiston Respublikasining Mehnat kodeksiga muvofiq har yilgi asosiy eng kam mehnat ta'tilining davomiyligi yigirma bir kalendar kunni tashkil etadi (Mehnat kodeksining 221-moddasi).
+Q003: Mehnat kodeksida 612-modda mavjud emas, shuning uchun bu norma va uning mazmuni bo'yicha ma'lumot yo'q.
+Q004: Yo'q, 18 yoshga to'lmagan shaxslar ishga qabul qilinganda ularga nisbatan dastlabki sinov belgilanmaydi (Mehnat kodeksining 130-moddasi).
+Q005: Ayollarga 70 kalendar kun tug'ruqqacha va 56 kalendar kun tug'ruqdan keyin homiladorlik va tug'ish ta'tili beriladi (Mehnat kodeksining 404-moddasi).
+Q006: Ha, xodimning yozma arizasiga ko'ra har yilgi ta'tilning yigirma bir kalendar kundan ortiq bo'lgan qismi uchun pulli kompensatsiya berilishi mumkin (Mehnat kodeksining 234-moddasi).
+Q007: Muddatli mehnat shartnomasi eng ko'pi bilan besh yilgacha bo'lgan muddatga tuzilishi mumkin (Mehnat kodeksining 112-moddasi).
+Q008: O'rindoshlik asosida ishlovchi xodimlar uchun ish vaqtining davomiyligi kunlik norma yarimidan, haftasiga esa odatdagi ish vaqtining yarmidan oshmasligi kerak (Mehnat kodeksining 446-moddasi).
+Q009: Sinov muddati davomida tomonlardan biri ikkinchi tomonni uch kun oldin yozma ravishda ogohlantirib, mehnat shartnomasini bekor qilishga haqli (Mehnat kodeksining 131-moddasi).
+Q010: Mehnat qonunchiligiga ko'ra, homilador ayollarni har yilgi mehnat ta'tilidan chaqirib olish qat'iyan taqiqlanadi (Mehnat kodeksining 232-moddasi).
+Q011: Yo'q, xodimga yetkazilgan ma'naviy zararni kompensatsiya qilish to'g'risidagi nizolar bo'yicha sudga murojaat qilish uchun qat'iy maxsus muddat belgilanmagan.
+Q012: Yo'q, olti oygacha bo'lgan muddatga tuzilgan mehnat shartnomalarida dastlabki sinov belgilanmaydi (Mehnat kodeksining 129-moddasi).
+Q013: Dam olish va bayram kunlaridagi ish uchun kamida ikki baravar miqdorda haq to'lanadi yoki xodimning xohishiga ko'ra boshqa dam olish kuni berilishi mumkin (Mehnat kodeksining 263-moddasi).
+Q014: Tungi vaqtdagi ishning har bir soati uchun xodimga belgilangan tarif stavkasining bir yarim baravaridan kam bo'lmagan miqdorda qo'shimcha haq to'lanadi (Mehnat kodeksining 262-moddasi).
+Q015: Ishga tiklash nizolari bo'yicha xodim ishdan bo'shatish haqidagi buyruq nusxasi topshirilgan kundan boshlab bir oylik muddatda sudga murojaat qilishi shart (Mehnat kodeksining 272-moddasi).
+Q016: Mehnat qonunchiligida bitta tashkilotda yoki tarmoqda ko'p yillik ish staji uchun avtomatik tarzda qo'shimcha ta'til berilishi belgilanmagan, bu jamoa shartnomalari bilan tartibga solinishi mumkin.
+Q017: Yo'q, xodimning roziligisiz uni har yilgi ta'tildan chaqirib olishga yo'l qo'yilmaydi (Mehnat kodeksining 232-moddasi).
+Q018: Mehnat kodeksida 625-modda mavjud emas, shuning uchun bu savolga aniq modda bo'yicha javob berib bo'lmaydi.
+Q019: O'zbekiston Respublikasining amaldagi Mehnat kodeksiga ko'ra har yilgi eng kam asosiy ta'til yigirma bir kalendar kunni tashkil etadi, o'n besh ish kuni tushunchasi amalda emas (Mehnat kodeksining 221-moddasi).
+Q020: Smenalar oralig'idagi kundalik dam olish vaqtining davomiyligi (shu jumladan tushlik tanaffusi) ish kunining (smenaning) o'zidan ikki baravar kam bo'lmasligi kerak.
+Q021: Besh kunlik ish haftasida kundalik ishning (smenaning) davomiyligi o'n ikki soatdan ortib ketishi mumkin emas (Mehnat kodeksining 118-moddasi).
+Q022: Mehnat shartnomasi bekor qilingan kuni ish beruvchi xodim bilan to'liq hisob-kitob qilishi va unga barcha to'lovlarni to'lashi shart (Mehnat kodeksining 172-moddasi).
+Q023: O'zbekiston Respublikasining Mehnat kodeksiga ko'ra soat 22:00 dan 6:00 gacha bo'lgan vaqt tungi vaqt hisoblanadi (Mehnat kodeksining 116-moddasi).
+Q024: Mehnat kodeksining 700-moddasi amaldagi kodeks tuzilmasiga ko'ra bunday masalani qamrab olmaydi yoki kodeksda bunday raqamli modda mavjud emas.
+Q025: Ha, ish beruvchi va xodimning o'zaro kelishuviga ko'ra ariza berish muddati (ikki hafta) tugamasdan ham mehnat shartnomasini bekor qilish mumkin (Mehnat kodeksining 160-moddasi).
+Q026: Homilador ayollar va o'n sakkiz yoshga to'lmagan xodimlarni ularning roziligi bilan ham har yilgi ta'tildan chaqirib olish taqiqlanadi (Mehnat kodeksining 232-moddasi).
+Q027: Muddatli mehnat shartnomasi qonunda belgilangan maksimal besh yillik muddat tugagandan so'ng yana bir yilga uzaytirilmaydi, u yangi muddatga qayta tuzilishi mumkin.
+Q028: O'n yildan o'n besh yilgacha ish stajiga ega bo'lgan xodimlarga ish beruvchi tashabbusi bilan ishdan bo'shatilganda o'rtacha oylik ish haqining kamida uch baravari miqdorida nafaqa to'lanadi (Mehnat kodeksining 174-moddasi).
+Q029: Muddat o'tkazib yuborilgan taqdirda, xodim sudga murojaat qilish muddatini uzaytirish (tiklash) haqida iltimosnoma va sababini asoslovchi hujjat taqdim etishi kerak (Mehnat kodeksining 272-moddasi).
+Q030: Tungi vaqtdagi kundalik ish vaqti (smena), agar ishlab chiqarish shartlariga ko'ra zarur bo'lmasa, kunduzgi ish vaqti bilan tenglashtirilib qisqartiriladi (Mehnat kodeksining 116-moddasi).
+Q031: Yo'q, agar mehnat shartnomasida dastlabki sinov sharti aniq ko'rsatilmagan bo'lsa, xodim sinov muddati belgilanmagan holda ishga qabul qilingan hisoblanadi (Mehnat kodeksining 128-moddasi).
+Q032: Ha, har yilgi mehnat ta'tilini qismlarga bo'lish mumkin, biroq bunda ta'tilning bir qismi o'n to'rt kalendar kundan kam bo'lmasligi kerak (Mehnat kodeksining 229-moddasi).
+Q033: Har bir oylik ish haqidan ushlab qolinadigan summalarning umumiy miqdori xodimga to'lanishi lozim bo'lgan ish haqining ellik foizidan oshib ketishi mumkin emas (Mehnat kodeksining 269-moddasi).
+Q034: Intizomiy jazoning amal qilish muddati u qo'llanilgan kundan e'tiboran bir yildan oshib ketishi mumkin emas (Mehnat kodeksining 314-moddasi).
+Q035: Yo'q, xodim vaqtincha mehnatga layoqatsizlik davrida yoki xizmat safarida bo'lgan vaqtda uni ish beruvchining tashabbusi bilan ishdan bo'shatishga yo'l qo'yilmaydi (Mehnat kodeksining 162-moddasi).
+Q036: Davlat fuqarolik xizmatchilariga o'ttiz kalendar kundan iborat har yilgi asosiy uzaytirilgan ta'til beriladi (Mehnat kodeksining 220-moddasi).
+Q037: Mehnat kodeksida 800-modda mavjud emas, shuning uchun bu moddaning matnini keltirish imkoni yo'q.
+Q038: I yoki II guruh nogironligi bo'lgan xodimlarga yil davomida o'ttiz kalendar kungacha bo'lgan muddatda haq saqlanmagan ta'til berilishi shart (Mehnat kodeksining 243-moddasi).
+Q039: Amaldagi Mehnat kodeksiga ko'ra tungi vaqt soat 22:00 dan 6:00 gacha belgilanadi va uning har bir soati uchun kamida 1.5 baravar haq to'lanadi (Mehnat kodeksining 116 va 262-moddalari).
+Q040: Oddiy xodim uchun dastlabki sinov muddati uch oydan ortiq bo'lishi mumkin emas (Mehnat kodeksining 129-moddasi).
+Q041: Yo'q, ish vaqti davomida xodimga dam olish va ovqatlanish uchun tanaffus berilishi shart, uni bermaslikka yo'l qo'yilmaydi (Mehnat kodeksining 210-moddasi).
+Q042: Uch yilgacha ish stajiga ega xodimlar uchun ish beruvchi tashabbusi bilan ishdan bo'shatishda nafaqaning eng kam miqdori o'rtacha oylik ish haqining ellik foizini tashkil etadi (Mehnat kodeksining 174-moddasi).
+Q043: Mehnat kodeksiga ko'ra 9 may bayrami Xotira va qadrlash kuni deb nomlanadi (Mehnat kodeksining 208-moddasi).
+Q044: Agar dam olish kuni ishlanmaydigan bayram kuniga to'g'ri kelsa, dam olish kuni bayramdan keyingi ish kuniga ko'chiriladi (Mehnat kodeksining 208-moddasi).
+Q045: Ish beruvchi xodimni xodimlar soni yoki shtati o'zgarishi munosabati bilan kamida ikki oy oldin yozma ravishda ogohlantirishi shart (Mehnat kodeksining 165-moddasi).
+Q046: Bolani parvarishlash ta'tili bola uch yoshga to'lgunga qadar nafaqa bilan, ish haqi saqlanmagan holda esa bola olti yoshga to'lgunga qadar beriladi (Mehnat kodeksining 405 va 407-moddalari).
+Q047: Intizomiy jazo choralariga hayfsan, jarima va mehnat shartnomasini bekor qilish kiradi (Mehnat kodeksining 312-moddasi).
+Q048: Alimentlar bo'yicha ushlab qolishlar miqdori xodimning ish haqining yetmish foizigacha bo'lishi mumkin (Mehnat kodeksining 269-moddasi).
+Q049: Yo'q, amaldagi tartibga ko'ra xodimning mehnat daftarchasiga mehnat shartnomasining bekor qilinish sabablari yozilmaydi, faqatgina umumiy yozuv kiritiladi.
+Q050: Xodim uchun ish vaqtidan tashqari ishlarning davomiyligi har bir xodim uchun surunkasiga ikki kun davomida to'rt soatdan va yiliga yuz yigirma soatdan oshmasligi kerak (Mehnat kodeksining 125-moddasi).
