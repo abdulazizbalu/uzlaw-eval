@@ -1,0 +1,200 @@
+{"id": "F043", "code": "A", "label": "correct", "citation_ok": false, "reason": "Срок 30 дней верен, но ст. 220 о дополнительном отпуске за стаж."}
+{"id": "F043", "code": "B", "label": "correct", "citation_ok": null, "reason": "30 календарных дней верно, статья не указана."}
+{"id": "F043", "code": "C", "label": "correct", "citation_ok": null, "reason": "30 календарных дней верно, статья не указана."}
+{"id": "F043", "code": "D", "label": "correct", "citation_ok": false, "reason": "30 дней верно, но ст. 391 не о ежегодном удлиненном отпуске."}
+{"id": "F043", "code": "E", "label": "correct", "citation_ok": null, "reason": "30 календарных дней верно, статья не указана."}
+{"id": "F043", "code": "F", "label": "correct", "citation_ok": null, "reason": "30 календарных дней верно, статья не указана."}
+{"id": "F043", "code": "G", "label": "correct", "citation_ok": true, "reason": "30 календарных дней, ст. 218 указана верно."}
+{"id": "F043", "code": "H", "label": "correct", "citation_ok": true, "reason": "30 календарных дней, ст. 218 указана верно."}
+{"id": "F042", "code": "A", "label": "correct", "citation_ok": true, "reason": "21 календарный день, ст. 217 верно."}
+{"id": "F042", "code": "B", "label": "correct", "citation_ok": false, "reason": "21 день верно, но ст. 221 об исчислении продолжительности отпусков."}
+{"id": "F042", "code": "C", "label": "correct", "citation_ok": true, "reason": "21 календарный день, ст. 217 верно."}
+{"id": "F042", "code": "D", "label": "correct", "citation_ok": null, "reason": "21 календарный день верно, статья не указана."}
+{"id": "F042", "code": "E", "label": "correct", "citation_ok": null, "reason": "21 календарный день верно, статья не указана."}
+{"id": "F042", "code": "F", "label": "correct", "citation_ok": true, "reason": "21 календарный день, ст. 217 верно."}
+{"id": "F042", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Указаны 15 рабочих дней (старая норма) вместо 21 календарного дня."}
+{"id": "F042", "code": "H", "label": "correct", "citation_ok": null, "reason": "21 календарный день верно, статья не указана."}
+{"id": "N002", "code": "A", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 612 нет (устаревшее число статей допустимо)."}
+{"id": "N002", "code": "B", "label": "correct_refusal", "citation_ok": null, "reason": "Указано, что статьи 612 нет, содержание не приписано."}
+{"id": "N002", "code": "C", "label": "hallucinated", "citation_ok": null, "reason": "Приписано несуществующей ст. 612 содержание о правах дистанционного работника."}
+{"id": "N002", "code": "D", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 612 нет."}
+{"id": "N002", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 612 нет, содержание не приписано."}
+{"id": "N002", "code": "F", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 612 нет."}
+{"id": "N002", "code": "G", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 612 нет; тема отнесена к другим нормам, не к ст. 612."}
+{"id": "N002", "code": "H", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 612 нет."}
+{"id": "F010", "code": "A", "label": "correct", "citation_ok": true, "reason": "Испытание не устанавливается, ст. 129 верно."}
+{"id": "F010", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно: испытание лицам до 18 лет не устанавливается, статья не указана."}
+{"id": "F010", "code": "C", "label": "correct", "citation_ok": null, "reason": "Верно: испытание не устанавливается, статья не указана."}
+{"id": "F010", "code": "D", "label": "correct", "citation_ok": null, "reason": "Верно: испытание не устанавливается, статья не указана."}
+{"id": "F010", "code": "E", "label": "correct", "citation_ok": false, "reason": "Ответ верен, но ст. 130 о сроке испытания, а не о запрете."}
+{"id": "F010", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно: испытание не устанавливается, статья не указана."}
+{"id": "F010", "code": "G", "label": "correct", "citation_ok": true, "reason": "Испытание не устанавливается, ст. 129 верно."}
+{"id": "F010", "code": "H", "label": "correct", "citation_ok": true, "reason": "Испытание не устанавливается, ст. 129 верно."}
+{"id": "F066", "code": "A", "label": "correct", "citation_ok": null, "reason": "70 дней до и 56 после родов (70 при осложнениях) верно, статья не указана."}
+{"id": "F066", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Указан только общий срок 126 дней без разбивки 70/56."}
+{"id": "F066", "code": "C", "label": "correct", "citation_ok": null, "reason": "70 и 56 дней (70 после при осложнениях) верно, статья не указана."}
+{"id": "F066", "code": "D", "label": "correct", "citation_ok": true, "reason": "70 и 56 дней, ст. 404 верно."}
+{"id": "F066", "code": "E", "label": "correct", "citation_ok": true, "reason": "70 и 56 дней, ст. 404 верно."}
+{"id": "F066", "code": "F", "label": "correct", "citation_ok": null, "reason": "70 и 56 дней верно, статья не указана."}
+{"id": "F066", "code": "G", "label": "correct", "citation_ok": true, "reason": "70 и 56 дней, ст. 404 верно."}
+{"id": "F066", "code": "H", "label": "correct", "citation_ok": true, "reason": "70 и 56 дней, ст. 404 верно."}
+{"id": "F051", "code": "A", "label": "correct", "citation_ok": true, "reason": "Компенсация только сверх минимальных 21 дня, ст. 234 верно."}
+{"id": "F051", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно: по желанию работника, сверх 21 дня, с исключениями; статья не указана."}
+{"id": "F051", "code": "C", "label": "correct", "citation_ok": null, "reason": "Верно: только сверх минимальных 21 дня; статья не указана."}
+{"id": "F051", "code": "D", "label": "correct", "citation_ok": true, "reason": "Сверх 21 дня по желанию работника, ст. 234 верно."}
+{"id": "F051", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно: только сверх 21 дня по желанию работника; статья не указана."}
+{"id": "F051", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Идея «сверх минимальной» верна, но минимум указан как 15 рабочих дней (старая норма), исключения неточны."}
+{"id": "F051", "code": "G", "label": "partially_correct", "citation_ok": null, "reason": "Сверх 21 дня верно, но в исключения ошибочно включены беременные."}
+{"id": "F051", "code": "H", "label": "correct", "citation_ok": true, "reason": "Сверх 21 дня по заявлению работника, ст. 234 верно."}
+{"id": "F002", "code": "A", "label": "wrong", "citation_ok": null, "reason": "Указано 5 лет вместо 3 лет."}
+{"id": "F002", "code": "B", "label": "correct", "citation_ok": true, "reason": "Не более трех лет, ст. 110 верно."}
+{"id": "F002", "code": "C", "label": "correct", "citation_ok": true, "reason": "Не более трех лет, ст. 110 верно."}
+{"id": "F002", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Указано 5 лет вместо 3 лет."}
+{"id": "F002", "code": "E", "label": "correct", "citation_ok": true, "reason": "Не более трех лет, ст. 110 верно."}
+{"id": "F002", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Указано 5 лет вместо 3 лет."}
+{"id": "F002", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Указано 5 лет вместо 3 лет."}
+{"id": "F002", "code": "H", "label": "wrong", "citation_ok": false, "reason": "Указано 5 лет вместо 3, ст. 112 о случаях заключения срочного договора."}
+{"id": "F071", "code": "A", "label": "correct", "citation_ok": null, "reason": "Не более половины нормы рабочего времени верно, статья не указана."}
+{"id": "F071", "code": "B", "label": "correct", "citation_ok": null, "reason": "Не более половины нормы рабочего времени верно, статья не указана."}
+{"id": "F071", "code": "C", "label": "correct", "citation_ok": null, "reason": "Половина нормы и полный день в свободные дни верно, статья не указана."}
+{"id": "F071", "code": "D", "label": "correct", "citation_ok": null, "reason": "Половина нормы верно (часы приведены как пример), статья не указана."}
+{"id": "F071", "code": "E", "label": "correct", "citation_ok": null, "reason": "Половина нормы верно, с оговоркой о неуверенности; статья не указана."}
+{"id": "F071", "code": "F", "label": "correct", "citation_ok": null, "reason": "Не более половины нормы верно, статья не указана."}
+{"id": "F071", "code": "G", "label": "correct", "citation_ok": false, "reason": "Половина нормы верно, но ст. 446 о надомниках."}
+{"id": "F071", "code": "H", "label": "correct", "citation_ok": true, "reason": "Половина нормы и полный день в свободные дни, ст. 437 верно."}
+{"id": "F016", "code": "A", "label": "correct", "citation_ok": false, "reason": "Три дня письменно верно, но ст. 131 не о прекращении в период испытания."}
+{"id": "F016", "code": "B", "label": "correct", "citation_ok": true, "reason": "Три дня письменно, ст. 132 верно."}
+{"id": "F016", "code": "C", "label": "correct", "citation_ok": true, "reason": "Три дня письменно, ст. 132 верно."}
+{"id": "F016", "code": "D", "label": "correct", "citation_ok": null, "reason": "Три дня письменно верно, статья не указана."}
+{"id": "F016", "code": "E", "label": "correct", "citation_ok": null, "reason": "Три дня письменно верно, статья не указана."}
+{"id": "F016", "code": "F", "label": "correct", "citation_ok": false, "reason": "Три дня письменно верно, но ст. 131 не о прекращении в период испытания."}
+{"id": "F016", "code": "G", "label": "partially_correct", "citation_ok": null, "reason": "Три дня верно, но не указана письменная форма предупреждения."}
+{"id": "F016", "code": "H", "label": "correct", "citation_ok": null, "reason": "Три дня письменно верно, статья не указана."}
+{"id": "P004", "code": "A", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: отзыв беременной из отпуска запрещен."}
+{"id": "P004", "code": "B", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: отзыв запрещен даже с согласия."}
+{"id": "P004", "code": "C", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: отзыв беременной запрещен."}
+{"id": "P004", "code": "D", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка отвергнута, ст. 232 указана верно (с оговоркой)."}
+{"id": "P004", "code": "E", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: отзыв беременной запрещен."}
+{"id": "P004", "code": "F", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка отвергнута, ст. 232 верно."}
+{"id": "P004", "code": "G", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: отзыв не допускается даже с согласия."}
+{"id": "P004", "code": "H", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка отвергнута, ст. 232 верно."}
+{"id": "F074", "code": "A", "label": "correct", "citation_ok": null, "reason": "Верно: срок обращения в суд не установлен; статья не указана."}
+{"id": "F074", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Не знает нормы, предполагает общий срок исковой давности."}
+{"id": "F074", "code": "C", "label": "wrong", "citation_ok": true, "reason": "Утверждает общий трехлетний срок, хотя ст. 560 срок не устанавливает."}
+{"id": "F074", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Предполагает срок основного спора вместо отсутствия срока."}
+{"id": "F074", "code": "E", "label": "correct", "citation_ok": true, "reason": "Срок не установлен, ст. 560 верно."}
+{"id": "F074", "code": "F", "label": "correct", "citation_ok": true, "reason": "Срок не установлен, ст. 560 верно."}
+{"id": "F074", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Ответ сводится к «не знаю»."}
+{"id": "F074", "code": "H", "label": "wrong", "citation_ok": null, "reason": "Утверждает применение общих сроков, хотя срок не установлен."}
+{"id": "F011", "code": "A", "label": "correct", "citation_ok": true, "reason": "Испытание не устанавливается, ст. 129 верно."}
+{"id": "F011", "code": "B", "label": "correct", "citation_ok": true, "reason": "Испытание не устанавливается, ст. 129 верно."}
+{"id": "F011", "code": "C", "label": "correct", "citation_ok": null, "reason": "Верно: испытание не устанавливается; статья не указана."}
+{"id": "F011", "code": "D", "label": "correct", "citation_ok": true, "reason": "Испытание не устанавливается, ст. 129 верно."}
+{"id": "F011", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Ответ уклончивый, норма не названа."}
+{"id": "F011", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что испытание возможно, что противоречит ст. 129."}
+{"id": "F011", "code": "G", "label": "correct", "citation_ok": true, "reason": "Испытание не устанавливается, ст. 129 верно."}
+{"id": "F011", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно: испытание не устанавливается; статья не указана."}
+{"id": "F056", "code": "A", "label": "correct", "citation_ok": true, "reason": "Не ниже двойного размера или другой день отдыха, ст. 263 верно."}
+{"id": "F056", "code": "B", "label": "correct", "citation_ok": true, "reason": "Не ниже двойного размера, ст. 263 верно."}
+{"id": "F056", "code": "C", "label": "correct", "citation_ok": null, "reason": "Не ниже двойного размера и вариант с днем отдыха верно; статья не указана."}
+{"id": "F056", "code": "D", "label": "correct", "citation_ok": null, "reason": "Двойной размер или день отдыха с одинарной оплатой верно; статья не указана."}
+{"id": "F056", "code": "E", "label": "correct", "citation_ok": true, "reason": "Двойной размер или день отдыха, ст. 263 верно."}
+{"id": "F056", "code": "F", "label": "correct", "citation_ok": null, "reason": "Двойной размер или день отдыха верно; статья не указана."}
+{"id": "F056", "code": "G", "label": "correct", "citation_ok": null, "reason": "Двойной размер верно; статья не указана."}
+{"id": "F056", "code": "H", "label": "correct", "citation_ok": null, "reason": "Двойной размер верно, замена днем отдыха описана неточно («по соглашению»)."}
+{"id": "F057", "code": "A", "label": "correct", "citation_ok": null, "reason": "Не менее чем в полуторном размере верно; статья не указана."}
+{"id": "F057", "code": "B", "label": "correct", "citation_ok": null, "reason": "Полуторный размер назван верно, с оговоркой о неуверенности; статья не указана."}
+{"id": "F057", "code": "C", "label": "correct", "citation_ok": true, "reason": "Не менее чем в полуторном размере, ст. 264 верно."}
+{"id": "F057", "code": "D", "label": "correct", "citation_ok": false, "reason": "Полуторный размер назван, но ст. 262 о сверхурочной работе."}
+{"id": "F057", "code": "E", "label": "correct", "citation_ok": null, "reason": "Полуторный размер назван верно, с оговоркой; статья не указана."}
+{"id": "F057", "code": "F", "label": "correct", "citation_ok": null, "reason": "Не менее чем в полуторном размере верно; статья не указана."}
+{"id": "F057", "code": "G", "label": "correct", "citation_ok": true, "reason": "Не менее чем в полуторном размере, ст. 264 верно."}
+{"id": "F057", "code": "H", "label": "wrong", "citation_ok": null, "reason": "Конкретный размер (полуторный) не назван."}
+{"id": "F073", "code": "A", "label": "correct", "citation_ok": true, "reason": "Три месяца со дня вручения копии приказа, ст. 560 верно."}
+{"id": "F073", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Указан 1 месяц вместо трех месяцев."}
+{"id": "F073", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Указан 1 месяц вместо трех месяцев (старая норма)."}
+{"id": "F073", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Указан 1 месяц вместо трех месяцев (старая норма)."}
+{"id": "F073", "code": "E", "label": "wrong", "citation_ok": false, "reason": "Указан 1 месяц вместо трех; ст. 272 о нормировании труда."}
+{"id": "F073", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Указан 1 месяц вместо трех месяцев."}
+{"id": "F073", "code": "G", "label": "correct", "citation_ok": true, "reason": "Три месяца со дня вручения копии приказа, ст. 560 верно."}
+{"id": "F073", "code": "H", "label": "correct", "citation_ok": true, "reason": "Три месяца со дня вручения копии приказа, ст. 560 верно."}
+{"id": "F046", "code": "A", "label": "wrong", "citation_ok": null, "reason": "Отрицает наличие нормы о 2 днях за каждые 5 лет."}
+{"id": "F046", "code": "B", "label": "correct", "citation_ok": true, "reason": "2 дня за каждые 5 лет, не более 8, ст. 220 верно."}
+{"id": "F046", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Отрицает наличие нормы в законе, отсылает к колдоговору."}
+{"id": "F046", "code": "D", "label": "correct", "citation_ok": true, "reason": "2 дня за каждые 5 лет, не более 8, ст. 220 верно."}
+{"id": "F046", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Не знает нормы, отсылает к колдоговору."}
+{"id": "F046", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Не знает нормы, отсылает к колдоговору."}
+{"id": "F046", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Не называет размер отпуска, отсылает к отраслевому законодательству."}
+{"id": "F046", "code": "H", "label": "correct", "citation_ok": true, "reason": "2 дня за каждые 5 лет, не более 8, ст. 220 верно."}
+{"id": "F049", "code": "A", "label": "correct", "citation_ok": null, "reason": "Только с согласия работника верно; статья не указана."}
+{"id": "F049", "code": "B", "label": "correct", "citation_ok": null, "reason": "Только с согласия работника верно; статья не указана."}
+{"id": "F049", "code": "C", "label": "correct", "citation_ok": true, "reason": "Без согласия нельзя, ст. 232 верно."}
+{"id": "F049", "code": "D", "label": "correct", "citation_ok": null, "reason": "Без согласия нельзя верно; оговорка о случаях в законе лишняя; статья не указана."}
+{"id": "F049", "code": "E", "label": "correct", "citation_ok": null, "reason": "Только с согласия работника верно; статья не указана."}
+{"id": "F049", "code": "F", "label": "correct", "citation_ok": null, "reason": "Только с согласия работника верно; статья не указана."}
+{"id": "F049", "code": "G", "label": "correct", "citation_ok": true, "reason": "Только с согласия работника, ст. 232 верно."}
+{"id": "F049", "code": "H", "label": "correct", "citation_ok": true, "reason": "Только с согласия работника, ст. 232 верно."}
+{"id": "N003", "code": "A", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 625 нет."}
+{"id": "N003", "code": "B", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 625 нет; тема раскрыта без привязки к ней."}
+{"id": "N003", "code": "C", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 625 нет; тема отнесена к другой статье."}
+{"id": "N003", "code": "D", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 625 нет."}
+{"id": "N003", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 625 нет; тема отнесена к ст. 234."}
+{"id": "N003", "code": "F", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 625 нет."}
+{"id": "N003", "code": "G", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 625 нет, содержание не приписано."}
+{"id": "N003", "code": "H", "label": "hallucinated", "citation_ok": null, "reason": "Приписано несуществующей ст. 625 содержание о компенсации."}
+{"id": "P002", "code": "A", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: минимум 21 календарный день."}
+{"id": "P002", "code": "B", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: минимум 21 календарный день."}
+{"id": "P002", "code": "C", "label": "premise_accepted", "citation_ok": null, "reason": "Принята ошибочная предпосылка о 15 рабочих днях."}
+{"id": "P002", "code": "D", "label": "premise_corrected", "citation_ok": false, "reason": "Предпосылка отвергнута, 21 день верно, но ст. 221 об исчислении, а не о минимуме."}
+{"id": "P002", "code": "E", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка отвергнута, 21 календарный день, ст. 217 верно."}
+{"id": "P002", "code": "F", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка отвергнута, 21 календарный день, ст. 217 верно."}
+{"id": "P002", "code": "G", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка отвергнута, 21 календарный день, ст. 217 верно."}
+{"id": "P002", "code": "H", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута, 21 календарный день; статья не указана."}
+{"id": "F038", "code": "A", "label": "correct", "citation_ok": null, "reason": "Не менее 12 часов верно; статья не указана."}
+{"id": "F038", "code": "B", "label": "correct", "citation_ok": null, "reason": "Не менее 12 часов верно; статья не указана."}
+{"id": "F038", "code": "C", "label": "correct", "citation_ok": false, "reason": "12 часов верно, но ст. 201 о понятии времени отдыха."}
+{"id": "F038", "code": "D", "label": "correct", "citation_ok": null, "reason": "Не менее 12 часов верно; статья не указана."}
+{"id": "F038", "code": "E", "label": "correct", "citation_ok": null, "reason": "Не менее 12 часов с учетом перерыва верно; статья не указана."}
+{"id": "F038", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Указано правило «не менее двойной продолжительности смены» (старая норма) вместо 12 часов."}
+{"id": "F038", "code": "G", "label": "correct", "citation_ok": null, "reason": "Не менее 12 часов верно; статья не указана."}
+{"id": "F038", "code": "H", "label": "correct", "citation_ok": null, "reason": "Не менее 12 часов верно; статья не указана."}
+{"id": "F031", "code": "A", "label": "correct", "citation_ok": null, "reason": "8 часов верно; статья не указана."}
+{"id": "F031", "code": "B", "label": "correct", "citation_ok": null, "reason": "8 часов верно; статья не указана."}
+{"id": "F031", "code": "C", "label": "wrong", "citation_ok": false, "reason": "Указано 12 часов вместо 8; ст. 118 о возрасте приема на работу."}
+{"id": "F031", "code": "D", "label": "correct", "citation_ok": null, "reason": "8 часов верно; статья не указана."}
+{"id": "F031", "code": "E", "label": "correct", "citation_ok": null, "reason": "8 часов верно, с оговоркой о неуверенности; статья не указана."}
+{"id": "F031", "code": "F", "label": "correct", "citation_ok": true, "reason": "8 часов верно, среди цитируемых ст. 185."}
+{"id": "F031", "code": "G", "label": "correct", "citation_ok": null, "reason": "8 часов верно; статья не указана."}
+{"id": "F031", "code": "H", "label": "partially_correct", "citation_ok": false, "reason": "8 часов упомянуто лишь «как правило», лимит смены не назван; ст. 184 о сокращенном времени."}
+{"id": "F022", "code": "A", "label": "correct", "citation_ok": null, "reason": "В день увольнения верно; статья не указана."}
+{"id": "F022", "code": "B", "label": "correct", "citation_ok": true, "reason": "В день прекращения договора, ст. 172 верно."}
+{"id": "F022", "code": "C", "label": "correct", "citation_ok": null, "reason": "В день увольнения верно; статья не указана."}
+{"id": "F022", "code": "D", "label": "correct", "citation_ok": true, "reason": "В день прекращения договора, ст. 172 верно."}
+{"id": "F022", "code": "E", "label": "correct", "citation_ok": null, "reason": "В день увольнения верно; статья не указана."}
+{"id": "F022", "code": "F", "label": "correct", "citation_ok": true, "reason": "В день прекращения договора, ст. 172 верно."}
+{"id": "F022", "code": "G", "label": "correct", "citation_ok": true, "reason": "В день прекращения договора, ст. 172 верно."}
+{"id": "F022", "code": "H", "label": "correct", "citation_ok": null, "reason": "В день увольнения верно; статья не указана."}
+{"id": "F033", "code": "A", "label": "correct", "citation_ok": false, "reason": "22:00–6:00 верно, но ст. 190 о сверхурочных работах."}
+{"id": "F033", "code": "B", "label": "correct", "citation_ok": null, "reason": "22:00–6:00 верно; статья не указана."}
+{"id": "F033", "code": "C", "label": "correct", "citation_ok": false, "reason": "22:00–6:00 верно, но ст. 116 о совмещении профессий."}
+{"id": "F033", "code": "D", "label": "correct", "citation_ok": null, "reason": "22:00–6:00 верно; статья не указана."}
+{"id": "F033", "code": "E", "label": "correct", "citation_ok": null, "reason": "22:00–6:00 верно; статья не указана."}
+{"id": "F033", "code": "F", "label": "correct", "citation_ok": true, "reason": "22:00–6:00, ст. 188 верно."}
+{"id": "F033", "code": "G", "label": "correct", "citation_ok": true, "reason": "22:00–6:00, ст. 188 верно."}
+{"id": "F033", "code": "H", "label": "correct", "citation_ok": null, "reason": "22:00–6:00 верно; статья не указана."}
+{"id": "N007", "code": "A", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 700 нет."}
+{"id": "N007", "code": "B", "label": "hallucinated", "citation_ok": null, "reason": "Приписано несуществующей ст. 700 содержание об ответственности."}
+{"id": "N007", "code": "C", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 700 нет; штрафы отнесены к КоАО."}
+{"id": "N007", "code": "D", "label": "partially_correct", "citation_ok": null, "reason": "Несуществование статьи названо лишь как одна из альтернатив, без четкого отказа."}
+{"id": "N007", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 700 нет."}
+{"id": "N007", "code": "F", "label": "correct_refusal", "citation_ok": null, "reason": "Прямо сказано, что статьи 700 нет."}
+{"id": "N007", "code": "G", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 700 нет; штрафы отнесены к КоАО."}
+{"id": "N007", "code": "H", "label": "correct_refusal", "citation_ok": null, "reason": "Сказано, что статьи 700 нет."}
+{"id": "P006", "code": "A", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: срок две недели, сокращается по соглашению."}
+{"id": "P006", "code": "B", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка отвергнута: 14 календарных дней, ст. 160 верно."}
+{"id": "P006", "code": "C", "label": "premise_corrected", "citation_ok": true, "reason": "Предпосылка отвергнута: 14 календарных дней, ст. 160 верно."}
+{"id": "P006", "code": "D", "label": "premise_accepted", "citation_ok": null, "reason": "Принята ошибочная предпосылка о месячном сроке отработки."}
+{"id": "P006", "code": "E", "label": "partially_correct", "citation_ok": true, "reason": "Месяц отвергнут, но назван неверный срок два месяца вместо 14 дней."}
+{"id": "P006", "code": "F", "label": "premise_corrected", "citation_ok": null, "reason": "Предпосылка отвергнута: срок 2 недели, сокращается по соглашению."}
+{"id": "P006", "code": "G", "label": "partially_correct", "citation_ok": true, "reason": "Двухнедельный срок упомянут, но ошибочная предпосылка о месяце явно не отвергнута."}
+{"id": "P006", "code": "H", "label": "premise_accepted", "citation_ok": null, "reason": "Принята ошибочная предпосылка о месячном сроке."}

@@ -1,0 +1,200 @@
+{"id": "F050", "code": "A", "label": "partially_correct", "citation_ok": null, "reason": "Нет инвалидности I-II групп, «вредные» без «особо»."}
+{"id": "F050", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Нет работников на особо вредных и особо тяжелых работах."}
+{"id": "F050", "code": "C", "label": "partially_correct", "citation_ok": null, "reason": "Нет инвалидности I-II групп."}
+{"id": "F050", "code": "D", "label": "correct", "citation_ok": true, "reason": "Все категории названы, ст. 232 верна."}
+{"id": "F050", "code": "E", "label": "partially_correct", "citation_ok": true, "reason": "Названы только беременные и до 18 лет."}
+{"id": "F050", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Нет инвалидности I-II групп."}
+{"id": "F050", "code": "G", "label": "partially_correct", "citation_ok": true, "reason": "Нет инвалидности I-II групп; «неблагоприятные» вместо особо вредных."}
+{"id": "F050", "code": "H", "label": "partially_correct", "citation_ok": null, "reason": "Нет инвалидности, вредные работы лишь как предположение."}
+{"id": "P009", "code": "A", "label": "partially_correct", "citation_ok": true, "reason": "Исправляет на 3 года, но отрицает совокупный предел 5 лет."}
+{"id": "P009", "code": "B", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: изначально до 3 лет, всего не более 5."}
+{"id": "P009", "code": "C", "label": "partially_correct", "citation_ok": null, "reason": "Говорит об общем сроке 5 лет, но не называет начальный предел 3 года."}
+{"id": "P009", "code": "D", "label": "premise_accepted", "citation_ok": null, "reason": "Принимает 5 лет как максимум, 3 года не названы."}
+{"id": "P009", "code": "E", "label": "partially_correct", "citation_ok": true, "reason": "Верно про совокупный предел 5 лет, но 3 года не названы; коррекция слабая."}
+{"id": "P009", "code": "F", "label": "premise_accepted", "citation_ok": null, "reason": "Принимает предпосылку и объясняет, как продлить на год."}
+{"id": "P009", "code": "G", "label": "premise_accepted", "citation_ok": null, "reason": "Называет 5 лет законным максимумом, 3 года не названы."}
+{"id": "P009", "code": "H", "label": "premise_accepted", "citation_ok": null, "reason": "Принимает 5 лет как предел срока, 3 года не названы."}
+{"id": "F027", "code": "A", "label": "correct", "citation_ok": true, "reason": "150%, ст. 173."}
+{"id": "F027", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Назван 200% (два заработка) вместо 150%."}
+{"id": "F027", "code": "C", "label": "correct", "citation_ok": true, "reason": "150%, ст. 173."}
+{"id": "F027", "code": "D", "label": "correct", "citation_ok": true, "reason": "150%, ст. 173."}
+{"id": "F027", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Названы три заработка вместо 150%."}
+{"id": "F027", "code": "F", "label": "wrong", "citation_ok": false, "reason": "Три заработка вместо 150%; ст. 174 не та."}
+{"id": "F027", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Два заработка вместо 150%."}
+{"id": "F027", "code": "H", "label": "wrong", "citation_ok": null, "reason": "Ответ не дан."}
+{"id": "P013", "code": "A", "label": "premise_corrected", "citation_ok": true, "reason": "Исправляет на 3 месяца, ст. 560."}
+{"id": "P013", "code": "B", "label": "premise_accepted", "citation_ok": false, "reason": "Принимает срок 1 месяц; ст. 272 о нормировании труда."}
+{"id": "P013", "code": "C", "label": "premise_accepted", "citation_ok": null, "reason": "Не исправляет срок 1 месяц."}
+{"id": "P013", "code": "D", "label": "premise_accepted", "citation_ok": null, "reason": "Не исправляет срок 1 месяц."}
+{"id": "P013", "code": "E", "label": "premise_accepted", "citation_ok": null, "reason": "Не исправляет срок 1 месяц."}
+{"id": "P013", "code": "F", "label": "premise_corrected", "citation_ok": true, "reason": "Исправляет на 3 месяца, ст. 560."}
+{"id": "P013", "code": "G", "label": "premise_accepted", "citation_ok": null, "reason": "Не исправляет срок 1 месяц."}
+{"id": "P013", "code": "H", "label": "premise_corrected", "citation_ok": true, "reason": "Исправляет на 3 месяца, ст. 560."}
+{"id": "F034", "code": "A", "label": "partially_correct", "citation_ok": null, "reason": "Один час верно, нет условия о половине смены, исключение неверное."}
+{"id": "F034", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Один час верно, нет условия о половине смены."}
+{"id": "F034", "code": "C", "label": "partially_correct", "citation_ok": false, "reason": "Нет условия о половине смены; ст. 190 о сверхурочных."}
+{"id": "F034", "code": "D", "label": "partially_correct", "citation_ok": true, "reason": "Один час верно, нет условия о половине смены."}
+{"id": "F034", "code": "E", "label": "correct", "citation_ok": true, "reason": "Один час при не менее половины смены ночью, ст. 188."}
+{"id": "F034", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Один час верно, нет условия о половине смены."}
+{"id": "F034", "code": "G", "label": "partially_correct", "citation_ok": null, "reason": "Нет условия о половине смены, исключения неточны."}
+{"id": "F034", "code": "H", "label": "wrong", "citation_ok": false, "reason": "Нет сокращения на час; ст. 116 о совмещении."}
+{"id": "F009", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 129."}
+{"id": "F009", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F009", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 129."}
+{"id": "F009", "code": "D", "label": "correct", "citation_ok": false, "reason": "Верно, но ст. 128 о фактическом допущении."}
+{"id": "F009", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 129."}
+{"id": "F009", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F009", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F009", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F048", "code": "A", "label": "correct", "citation_ok": true, "reason": "14 календарных дней, ст. 231."}
+{"id": "F048", "code": "B", "label": "correct", "citation_ok": null, "reason": "14 дней, сомнение не снижает оценку."}
+{"id": "F048", "code": "C", "label": "correct", "citation_ok": null, "reason": "14 календарных дней."}
+{"id": "F048", "code": "D", "label": "correct", "citation_ok": true, "reason": "14 календарных дней, ст. 231."}
+{"id": "F048", "code": "E", "label": "correct", "citation_ok": null, "reason": "14 календарных дней."}
+{"id": "F048", "code": "F", "label": "wrong", "citation_ok": null, "reason": "15 рабочих дней вместо 14 календарных."}
+{"id": "F048", "code": "G", "label": "correct", "citation_ok": false, "reason": "14 дней верно; ст. 229 о продлении и переносе."}
+{"id": "F048", "code": "H", "label": "correct", "citation_ok": null, "reason": "14 календарных дней."}
+{"id": "F060", "code": "A", "label": "correct", "citation_ok": true, "reason": "50%, ст. 270."}
+{"id": "F060", "code": "B", "label": "correct", "citation_ok": null, "reason": "50%."}
+{"id": "F060", "code": "C", "label": "wrong", "citation_ok": null, "reason": "20% как общее правило."}
+{"id": "F060", "code": "D", "label": "wrong", "citation_ok": null, "reason": "20% как общее правило."}
+{"id": "F060", "code": "E", "label": "correct", "citation_ok": null, "reason": "50%."}
+{"id": "F060", "code": "F", "label": "correct", "citation_ok": false, "reason": "50% верно; ст. 269 об основаниях удержаний."}
+{"id": "F060", "code": "G", "label": "correct", "citation_ok": null, "reason": "50%, 70% как исключение."}
+{"id": "F060", "code": "H", "label": "correct", "citation_ok": true, "reason": "50%, ст. 270."}
+{"id": "F064", "code": "A", "label": "correct", "citation_ok": true, "reason": "Один год, ст. 315."}
+{"id": "F064", "code": "B", "label": "wrong", "citation_ok": null, "reason": "6 месяцев вместо года."}
+{"id": "F064", "code": "C", "label": "correct", "citation_ok": null, "reason": "Один год."}
+{"id": "F064", "code": "D", "label": "correct", "citation_ok": null, "reason": "Один год."}
+{"id": "F064", "code": "E", "label": "correct", "citation_ok": null, "reason": "Один год."}
+{"id": "F064", "code": "F", "label": "correct", "citation_ok": false, "reason": "Один год верно; ст. 314 о сроках применения."}
+{"id": "F064", "code": "G", "label": "correct", "citation_ok": null, "reason": "Один год."}
+{"id": "F064", "code": "H", "label": "correct", "citation_ok": true, "reason": "Один год, ст. 315."}
+{"id": "F075", "code": "A", "label": "correct", "citation_ok": true, "reason": "Запрещено, кроме ликвидации, ст. 163."}
+{"id": "F075", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Не знает о запрете в командировке."}
+{"id": "F075", "code": "C", "label": "correct", "citation_ok": null, "reason": "Запрещено, кроме ликвидации."}
+{"id": "F075", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Сомневается в запрете в командировке."}
+{"id": "F075", "code": "E", "label": "correct", "citation_ok": true, "reason": "Запрещено, кроме ликвидации, ст. 163."}
+{"id": "F075", "code": "F", "label": "correct", "citation_ok": true, "reason": "Запрещено, кроме ликвидации, ст. 163."}
+{"id": "F075", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Отрицает запрет."}
+{"id": "F075", "code": "H", "label": "partially_correct", "citation_ok": false, "reason": "Запрет верно, нет исключения о ликвидации; ст. 162 не та."}
+{"id": "F045", "code": "A", "label": "wrong", "citation_ok": null, "reason": "30 дней вместо 27."}
+{"id": "F045", "code": "B", "label": "correct", "citation_ok": true, "reason": "27 дней, ст. 218."}
+{"id": "F045", "code": "C", "label": "wrong", "citation_ok": false, "reason": "30 дней вместо 27; ст. 220 о стаже."}
+{"id": "F045", "code": "D", "label": "correct", "citation_ok": true, "reason": "27 дней, ст. 218."}
+{"id": "F045", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Ответ не дан."}
+{"id": "F045", "code": "F", "label": "wrong", "citation_ok": null, "reason": "30 дней вместо 27."}
+{"id": "F045", "code": "G", "label": "correct", "citation_ok": true, "reason": "27 дней, ст. 218."}
+{"id": "F045", "code": "H", "label": "wrong", "citation_ok": null, "reason": "30 дней вместо 27."}
+{"id": "N009", "code": "A", "label": "partially_correct", "citation_ok": null, "reason": "Не говорит, что статьи нет, лишь не помнит текст."}
+{"id": "N009", "code": "B", "label": "correct_refusal", "citation_ok": null, "reason": "Статьи нет (устаревшее число 581 допустимо)."}
+{"id": "N009", "code": "C", "label": "correct_refusal", "citation_ok": null, "reason": "Статьи нет."}
+{"id": "N009", "code": "D", "label": "correct_refusal", "citation_ok": null, "reason": "Статьи нет."}
+{"id": "N009", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Статьи нет."}
+{"id": "N009", "code": "F", "label": "correct_refusal", "citation_ok": null, "reason": "Статьи нет."}
+{"id": "N009", "code": "G", "label": "correct_refusal", "citation_ok": null, "reason": "Статьи нет (581 допустимо)."}
+{"id": "N009", "code": "H", "label": "correct_refusal", "citation_ok": null, "reason": "Статьи нет (583 допустимо)."}
+{"id": "F053", "code": "A", "label": "wrong", "citation_ok": null, "reason": "60 дней вместо 14."}
+{"id": "F053", "code": "B", "label": "wrong", "citation_ok": null, "reason": "60 дней вместо 14."}
+{"id": "F053", "code": "C", "label": "wrong", "citation_ok": null, "reason": "60 дней по старой норме, действующей не названо."}
+{"id": "F053", "code": "D", "label": "correct", "citation_ok": true, "reason": "До 14 дней, ст. 242."}
+{"id": "F053", "code": "E", "label": "correct", "citation_ok": true, "reason": "До 14 дней, ст. 242."}
+{"id": "F053", "code": "F", "label": "wrong", "citation_ok": false, "reason": "30 дней вместо 14; ст. 243 о понятии оплаты."}
+{"id": "F053", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Ответ не дан."}
+{"id": "F053", "code": "H", "label": "correct", "citation_ok": true, "reason": "До 14 дней, ст. 242."}
+{"id": "P011", "code": "A", "label": "premise_corrected", "citation_ok": null, "reason": "Исправляет на 22:00-6:00, оплата не менее 1,5."}
+{"id": "P011", "code": "B", "label": "premise_corrected", "citation_ok": null, "reason": "Исправляет на 22:00-6:00, оплата не менее 1,5."}
+{"id": "P011", "code": "C", "label": "premise_corrected", "citation_ok": null, "reason": "Исправляет на 22:00-6:00; про оплату расплывчато."}
+{"id": "P011", "code": "D", "label": "premise_corrected", "citation_ok": null, "reason": "Исправляет на 22:00-6:00, 1,5."}
+{"id": "P011", "code": "E", "label": "premise_accepted", "citation_ok": null, "reason": "Считает по 23:00-7:00, не исправляет."}
+{"id": "P011", "code": "F", "label": "premise_corrected", "citation_ok": false, "reason": "Исправляет время; ст. 116 и 262 не о ночной работе."}
+{"id": "P011", "code": "G", "label": "premise_corrected", "citation_ok": null, "reason": "Исправляет на 22:00-6:00."}
+{"id": "P011", "code": "H", "label": "premise_corrected", "citation_ok": true, "reason": "Исправляет время и 1,5; ст. 264 об оплате ночной работы верна, ст. 190 нет."}
+{"id": "F013", "code": "A", "label": "correct", "citation_ok": null, "reason": "3 месяца."}
+{"id": "F013", "code": "B", "label": "correct", "citation_ok": null, "reason": "3 месяца."}
+{"id": "F013", "code": "C", "label": "correct", "citation_ok": null, "reason": "3 месяца."}
+{"id": "F013", "code": "D", "label": "correct", "citation_ok": false, "reason": "3 месяца верно; ст. 129 вместо 130."}
+{"id": "F013", "code": "E", "label": "correct", "citation_ok": true, "reason": "3 месяца, ст. 130."}
+{"id": "F013", "code": "F", "label": "correct", "citation_ok": true, "reason": "3 месяца, ст. 130."}
+{"id": "F013", "code": "G", "label": "correct", "citation_ok": null, "reason": "3 месяца."}
+{"id": "F013", "code": "H", "label": "correct", "citation_ok": true, "reason": "3 месяца, ст. 130."}
+{"id": "F037", "code": "A", "label": "wrong", "citation_ok": null, "reason": "6 часов вместо 4."}
+{"id": "F037", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Говорит, что перерыв обязателен, нет правила 4 часов."}
+{"id": "F037", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Нет правила о 4 часах."}
+{"id": "F037", "code": "D", "label": "correct", "citation_ok": true, "reason": "4 часа и ПВТР/трудовой договор, ст. 204."}
+{"id": "F037", "code": "E", "label": "correct", "citation_ok": null, "reason": "4 часа."}
+{"id": "F037", "code": "F", "label": "wrong", "citation_ok": true, "reason": "Говорит, что перерыв обязателен, нет правила 4 часов."}
+{"id": "F037", "code": "G", "label": "correct", "citation_ok": null, "reason": "4 часа верно."}
+{"id": "F037", "code": "H", "label": "wrong", "citation_ok": false, "reason": "Отрицает возможность; ст. 210 не та."}
+{"id": "F024", "code": "A", "label": "wrong", "citation_ok": null, "reason": "Один заработок вместо 50%."}
+{"id": "F024", "code": "B", "label": "correct", "citation_ok": true, "reason": "50%, ст. 173."}
+{"id": "F024", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Один заработок вместо 50%."}
+{"id": "F024", "code": "D", "label": "correct", "citation_ok": true, "reason": "50%, ст. 173."}
+{"id": "F024", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Один заработок вместо 50%."}
+{"id": "F024", "code": "F", "label": "correct", "citation_ok": true, "reason": "50%, ст. 173."}
+{"id": "F024", "code": "G", "label": "correct", "citation_ok": false, "reason": "50% верно; ст. 174 о незаконном увольнении."}
+{"id": "F024", "code": "H", "label": "wrong", "citation_ok": null, "reason": "Один заработок вместо 50%."}
+{"id": "F040", "code": "A", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F040", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208."}
+{"id": "F040", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208."}
+{"id": "F040", "code": "D", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F040", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F040", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208."}
+{"id": "F040", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F040", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208."}
+{"id": "F041", "code": "A", "label": "correct", "citation_ok": null, "reason": "Переносится на следующий рабочий день."}
+{"id": "F041", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F041", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208."}
+{"id": "F041", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208."}
+{"id": "F041", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208."}
+{"id": "F041", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208."}
+{"id": "F041", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F041", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно."}
+{"id": "F019", "code": "A", "label": "correct", "citation_ok": true, "reason": "2 месяца, ст. 165."}
+{"id": "F019", "code": "B", "label": "correct", "citation_ok": true, "reason": "2 месяца, ст. 165."}
+{"id": "F019", "code": "C", "label": "correct", "citation_ok": null, "reason": "2 месяца."}
+{"id": "F019", "code": "D", "label": "correct", "citation_ok": null, "reason": "2 месяца."}
+{"id": "F019", "code": "E", "label": "correct", "citation_ok": null, "reason": "2 месяца."}
+{"id": "F019", "code": "F", "label": "correct", "citation_ok": null, "reason": "2 месяца."}
+{"id": "F019", "code": "G", "label": "correct", "citation_ok": true, "reason": "2 месяца, ст. 165."}
+{"id": "F019", "code": "H", "label": "correct", "citation_ok": true, "reason": "2 месяца, ст. 165."}
+{"id": "F067", "code": "A", "label": "wrong", "citation_ok": true, "reason": "3 и 6 лет вместо 2 и 3; ст. 405 указана верно."}
+{"id": "F067", "code": "B", "label": "correct", "citation_ok": true, "reason": "2 и 3 года, ст. 405."}
+{"id": "F067", "code": "C", "label": "correct", "citation_ok": true, "reason": "2 и 3 года, ст. 405."}
+{"id": "F067", "code": "D", "label": "correct", "citation_ok": null, "reason": "2 и 3 года."}
+{"id": "F067", "code": "E", "label": "correct", "citation_ok": null, "reason": "2 и 3 года."}
+{"id": "F067", "code": "F", "label": "correct", "citation_ok": null, "reason": "2 и 3 года."}
+{"id": "F067", "code": "G", "label": "correct", "citation_ok": true, "reason": "2 и 3 года, ст. 405."}
+{"id": "F067", "code": "H", "label": "correct", "citation_ok": null, "reason": "2 и 3 года."}
+{"id": "F062", "code": "A", "label": "correct", "citation_ok": true, "reason": "Выговор, штраф, прекращение, ст. 312."}
+{"id": "F062", "code": "B", "label": "correct", "citation_ok": true, "reason": "Все меры и размеры штрафа, ст. 312."}
+{"id": "F062", "code": "C", "label": "correct", "citation_ok": null, "reason": "Все три меры."}
+{"id": "F062", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Замечание и строгий выговор вместо штрафа."}
+{"id": "F062", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Строгий выговор вместо штрафа."}
+{"id": "F062", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Три верные меры смешаны с несуществующим замечанием."}
+{"id": "F062", "code": "G", "label": "correct", "citation_ok": true, "reason": "Все меры, ст. 312."}
+{"id": "F062", "code": "H", "label": "correct", "citation_ok": true, "reason": "Все меры, ст. 312."}
+{"id": "F061", "code": "A", "label": "correct", "citation_ok": null, "reason": "70%."}
+{"id": "F061", "code": "B", "label": "correct", "citation_ok": true, "reason": "70%, ст. 270."}
+{"id": "F061", "code": "C", "label": "correct", "citation_ok": null, "reason": "70%."}
+{"id": "F061", "code": "D", "label": "correct", "citation_ok": true, "reason": "70%, ст. 270."}
+{"id": "F061", "code": "E", "label": "correct", "citation_ok": false, "reason": "70% верно; ст. 269 вместо 270."}
+{"id": "F061", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Верные 70% смешаны с 50% как основным пределом."}
+{"id": "F061", "code": "G", "label": "correct", "citation_ok": null, "reason": "70%."}
+{"id": "F061", "code": "H", "label": "correct", "citation_ok": null, "reason": "70%."}
+{"id": "F008", "code": "A", "label": "correct", "citation_ok": null, "reason": "Не записываются."}
+{"id": "F008", "code": "B", "label": "correct", "citation_ok": null, "reason": "Не записываются."}
+{"id": "F008", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что записываются."}
+{"id": "F008", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что записываются."}
+{"id": "F008", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что записываются."}
+{"id": "F008", "code": "F", "label": "correct", "citation_ok": false, "reason": "Верно; ст. 171 о выдаче книжки, норма в ст. 125."}
+{"id": "F008", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что записываются."}
+{"id": "F008", "code": "H", "label": "correct", "citation_ok": true, "reason": "Не записываются, ст. 125."}
+{"id": "F035", "code": "A", "label": "wrong", "citation_ok": null, "reason": "Только старый годовой предел 120 часов."}
+{"id": "F035", "code": "B", "label": "partially_correct", "citation_ok": false, "reason": "4 часа за 2 дня верно, но добавлен отменённый предел 120 ч; ст. 125 не та."}
+{"id": "F035", "code": "C", "label": "partially_correct", "citation_ok": false, "reason": "Добавлен отменённый предел 120 ч; ст. 199 не та."}
+{"id": "F035", "code": "D", "label": "partially_correct", "citation_ok": null, "reason": "Добавлен отменённый предел 120 ч."}
+{"id": "F035", "code": "E", "label": "partially_correct", "citation_ok": null, "reason": "Добавлен отменённый предел 120 ч."}
+{"id": "F035", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Только старый годовой предел 120 часов."}
+{"id": "F035", "code": "G", "label": "correct", "citation_ok": true, "reason": "4 часа за 2 дня, 2 часа на неблагоприятных работах, 120 ч отменено, ст. 190."}
+{"id": "F035", "code": "H", "label": "correct", "citation_ok": true, "reason": "4 часа за 2 дня, 120 ч отменено, ст. 190."}

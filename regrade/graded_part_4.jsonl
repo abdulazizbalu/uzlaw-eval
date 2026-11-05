@@ -1,0 +1,200 @@
+{"id": "P015", "code": "A", "label": "premise_corrected", "citation_ok": true, "reason": "Отвергает предпосылку: до 18 лет испытание не устанавливается, ст.129 верна."}
+{"id": "P015", "code": "B", "label": "premise_corrected", "citation_ok": true, "reason": "Указывает запрет испытания для лиц до 18 лет, ст.129 верна."}
+{"id": "P015", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Не говорит, что испытание лицам до 18 лет не устанавливается; лишь заявляет, что испытание не продлевается."}
+{"id": "P015", "code": "D", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: лицам до 18 лет испытание не устанавливается; статья не указана."}
+{"id": "P015", "code": "E", "label": "premise_corrected", "citation_ok": null, "reason": "Верно отвергает предпосылку; статья не указана."}
+{"id": "P015", "code": "F", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: испытание лицам до 18 лет запрещено, ст.129 верна."}
+{"id": "P015", "code": "G", "label": "premise_corrected", "citation_ok": false, "reason": "Правило верное, но ст.130 регулирует срок испытания, а не круг лиц."}
+{"id": "P015", "code": "H", "label": "premise_corrected", "citation_ok": false, "reason": "Правило верное, но ст.118 о возрасте приема, не об испытании."}
+{"id": "F026", "code": "A", "label": "correct", "citation_ok": true, "reason": "100% среднего заработка, ст.173 верна."}
+{"id": "F026", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Неверно: 1,6 заработка вместо 100%."}
+{"id": "F026", "code": "C", "label": "wrong", "citation_ok": false, "reason": "Неверно: 3 заработка; ст.175 о персональных данных."}
+{"id": "F026", "code": "D", "label": "correct", "citation_ok": false, "reason": "100% верно, но ст.174 о последствиях незаконного увольнения."}
+{"id": "F026", "code": "E", "label": "correct", "citation_ok": true, "reason": "100% верно, ст.173 верна."}
+{"id": "F026", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Ответ не дан (не помнит)."}
+{"id": "F026", "code": "G", "label": "wrong", "citation_ok": false, "reason": "Неверно: 1,5 заработка; ссылка на старый кодекс."}
+{"id": "F026", "code": "H", "label": "correct", "citation_ok": true, "reason": "100% верно, ст.173 верна."}
+{"id": "F072", "code": "A", "label": "wrong", "citation_ok": false, "reason": "Неверно: трехмесячный срок вместо шестимесячного; ст.545 об органах."}
+{"id": "F072", "code": "B", "label": "wrong", "citation_ok": false, "reason": "Неверно: три месяца; ст.557 о гарантиях членов КТС."}
+{"id": "F072", "code": "C", "label": "correct", "citation_ok": null, "reason": "Шесть месяцев верно; статья не указана."}
+{"id": "F072", "code": "D", "label": "wrong", "citation_ok": false, "reason": "Неверно: три месяца; ст.286 о компенсационных выплатах."}
+{"id": "F072", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Неверно: три месяца (старое правило)."}
+{"id": "F072", "code": "F", "label": "wrong", "citation_ok": false, "reason": "Неверно: три месяца; ссылка на старый кодекс."}
+{"id": "F072", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Ответ не дан."}
+{"id": "F072", "code": "H", "label": "correct", "citation_ok": false, "reason": "Шесть месяцев верно, но ст.560 о сроках обращения в суд, а не в КТС."}
+{"id": "P010", "code": "A", "label": "partially_correct", "citation_ok": true, "reason": "Не отвергает 75% явно и называет устаревшие пределы 20-50%; ст.270 указана."}
+{"id": "P010", "code": "B", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: общий предел 50%; но для алиментов указано 75% вместо 70%."}
+{"id": "P010", "code": "C", "label": "premise_accepted", "citation_ok": null, "reason": "Принимает предпосылку: предлагает оформить удержание 75% с согласия работника."}
+{"id": "P010", "code": "D", "label": "premise_corrected", "citation_ok": false, "reason": "Верно: предел 50%; ст.164 о согласовании с профкомом (номер старого кодекса)."}
+{"id": "P010", "code": "E", "label": "premise_corrected", "citation_ok": null, "reason": "Отвергает 75%, указывает общий предел 50%; номер статьи не указан."}
+{"id": "P010", "code": "F", "label": "premise_corrected", "citation_ok": null, "reason": "Верно отвергает предпосылку, предел 50%."}
+{"id": "P010", "code": "G", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: 75% нельзя, общий предел 50%."}
+{"id": "P010", "code": "H", "label": "partially_correct", "citation_ok": null, "reason": "Отвергает 75%, но правило неверно: 20% по общему правилу (старый кодекс)."}
+{"id": "P003", "code": "A", "label": "premise_corrected", "citation_ok": false, "reason": "Верно: 8 часов; ст.184 о сокращенном времени, а не ст.185."}
+{"id": "P003", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Отвергает предпосылку через недельную норму, но не называет предел 8 часов в день."}
+{"id": "P003", "code": "C", "label": "partially_correct", "citation_ok": false, "reason": "Лишь косвенно отвергает (сверхурочные/суммированный учет), не называет 8 часов; ст.120 неверна."}
+{"id": "P003", "code": "D", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: при поденном учете 8 часов, 9 часов только при другом режиме учета."}
+{"id": "P003", "code": "E", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: 8 часов, дольше только при суммированном учете."}
+{"id": "P003", "code": "F", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: 9 часов при поденном учете нельзя, нужен суммированный учет."}
+{"id": "P003", "code": "G", "label": "premise_accepted", "citation_ok": false, "reason": "Принимает предпосылку: 9 часов можно оформить ПВТР; ст.182 о недельной норме."}
+{"id": "P003", "code": "H", "label": "partially_correct", "citation_ok": null, "reason": "Не отвергает предпосылку явно, лишь предлагает суммированный учет; 8 часов не названы."}
+{"id": "F065", "code": "A", "label": "correct", "citation_ok": null, "reason": "Верно: в пределах среднего месячного заработка."}
+{"id": "F065", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно: в пределах среднего месячного заработка."}
+{"id": "F065", "code": "C", "label": "correct", "citation_ok": null, "reason": "Верно: не более среднего месячного заработка."}
+{"id": "F065", "code": "D", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.337 об обязанности возмещения, предел в ст.340."}
+{"id": "F065", "code": "E", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.191 о режиме рабочего времени."}
+{"id": "F065", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно: в пределах среднего месячного заработка."}
+{"id": "F065", "code": "G", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.338 об обстоятельствах, исключающих ответственность."}
+{"id": "F065", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно: в пределах среднего месячного заработка."}
+{"id": "F030", "code": "A", "label": "correct", "citation_ok": null, "reason": "Верно: 7 часов."}
+{"id": "F030", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно: 7 часов."}
+{"id": "F030", "code": "C", "label": "correct", "citation_ok": false, "reason": "Верно: 7 часов, но ст.182 о недельной норме, а не ст.185."}
+{"id": "F030", "code": "D", "label": "correct", "citation_ok": false, "reason": "Верно: 7 часов, но ст.120 о незаконном отказе в приеме."}
+{"id": "F030", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно: 7 часов."}
+{"id": "F030", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно: 7 часов."}
+{"id": "F030", "code": "G", "label": "correct", "citation_ok": false, "reason": "Верно: 7 часов; ссылка на старый кодекс."}
+{"id": "F030", "code": "H", "label": "correct", "citation_ok": false, "reason": "Верно: 7 часов, но ст.184 о сокращенном времени."}
+{"id": "F028", "code": "A", "label": "wrong", "citation_ok": false, "reason": "Неверно: 5 заработков; ст.175 о персональных данных."}
+{"id": "F028", "code": "B", "label": "correct", "citation_ok": false, "reason": "200% верно, но ст.174 о последствиях незаконного увольнения."}
+{"id": "F028", "code": "C", "label": "correct", "citation_ok": true, "reason": "200% верно, ст.173 верна."}
+{"id": "F028", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Ответ не дан."}
+{"id": "F028", "code": "E", "label": "wrong", "citation_ok": true, "reason": "Неверно: 150% (это для стажа 10-15 лет); ст.173 верна."}
+{"id": "F028", "code": "F", "label": "correct", "citation_ok": false, "reason": "2 заработка = 200% верно; ссылка на старый кодекс."}
+{"id": "F028", "code": "G", "label": "correct", "citation_ok": true, "reason": "200% верно, ст.173 верна."}
+{"id": "F028", "code": "H", "label": "wrong", "citation_ok": null, "reason": "Неверно: 2,5-3 заработка."}
+{"id": "P014", "code": "A", "label": "premise_accepted", "citation_ok": false, "reason": "Не опровергает двухлетний срок, отвечает только о досрочном снятии; ст.264 о ночной работе."}
+{"id": "P014", "code": "B", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: срок 1 год, досрочное снятие приказом."}
+{"id": "P014", "code": "C", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: срок один год, досрочное снятие описано."}
+{"id": "P014", "code": "D", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: срок один год."}
+{"id": "P014", "code": "E", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: один год, ст.315 верна."}
+{"id": "P014", "code": "F", "label": "premise_accepted", "citation_ok": false, "reason": "Не опровергает двухлетний срок; ссылка на старый кодекс."}
+{"id": "P014", "code": "G", "label": "premise_accepted", "citation_ok": false, "reason": "Не опровергает двухлетний срок; ст.314 о сроках применения взыскания."}
+{"id": "P014", "code": "H", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: один год, ст.315 верна."}
+{"id": "N008", "code": "A", "label": "correct_refusal", "citation_ok": null, "reason": "Ясно говорит, что статьи 735 нет."}
+{"id": "N008", "code": "B", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет (устаревшее число 581), содержание к ней не приписывает."}
+{"id": "N008", "code": "C", "label": "partially_correct", "citation_ok": null, "reason": "Не утверждает существование, но и не говорит, что статьи нет (не помнит)."}
+{"id": "N008", "code": "D", "label": "partially_correct", "citation_ok": null, "reason": "Не приписывает содержание, но не говорит, что статьи нет."}
+{"id": "N008", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет (устаревшее число 581)."}
+{"id": "N008", "code": "F", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет (устаревшее число 583)."}
+{"id": "N008", "code": "G", "label": "correct_refusal", "citation_ok": null, "reason": "Ясно говорит, что статьи 735 нет."}
+{"id": "N008", "code": "H", "label": "hallucinated", "citation_ok": null, "reason": "Приписывает несуществующей статье регулирование труда иностранцев (предположительно)."}
+{"id": "F005", "code": "A", "label": "wrong", "citation_ok": false, "reason": "Неверно: 14 лет (старое правило); ст.77 не та."}
+{"id": "F005", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Неверно: 14 лет вместо 15."}
+{"id": "F005", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно: 15 лет и письменное согласие одного из родителей, ст.118."}
+{"id": "F005", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно: 15 лет и письменное согласие одного из родителей, ст.118."}
+{"id": "F005", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно: 15 лет и письменное согласие одного из родителей, ст.118."}
+{"id": "F005", "code": "F", "label": "wrong", "citation_ok": false, "reason": "Неверно: 14 лет и медзаключение; ссылка на старый кодекс."}
+{"id": "F005", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Неверно: 14 лет вместо 15."}
+{"id": "F005", "code": "H", "label": "wrong", "citation_ok": false, "reason": "Неверно: 14 лет; ст.424 о труде лиц с инвалидностью."}
+{"id": "F055", "code": "A", "label": "correct", "citation_ok": false, "reason": "Верно: 1,5 и 2; ст.157 о соглашении сторон (номер старого кодекса)."}
+{"id": "F055", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Неверно: двойной размер (старая редакция)."}
+{"id": "F055", "code": "C", "label": "wrong", "citation_ok": true, "reason": "Неверно: двойной размер (старая редакция); ст.262 верна."}
+{"id": "F055", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Неверно: двойной размер (старая редакция)."}
+{"id": "F055", "code": "E", "label": "wrong", "citation_ok": true, "reason": "Неверно: двойной размер (старая редакция); ст.262 верна."}
+{"id": "F055", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Неверно: 1,25."}
+{"id": "F055", "code": "G", "label": "correct", "citation_ok": true, "reason": "Верно: 1,5 за первые два часа, далее 2, ст.262."}
+{"id": "F055", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно: 1,5 и 2, ст.262."}
+{"id": "P001", "code": "A", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: 3 месяца, 6 только для руководителей, ст.130."}
+{"id": "P001", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Ясно не отвергает предпосылку и не называет общий предел 3 месяца."}
+{"id": "P001", "code": "C", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: 3 месяца, ст.130."}
+{"id": "P001", "code": "D", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: 3 месяца, ст.130."}
+{"id": "P001", "code": "E", "label": "premise_corrected", "citation_ok": false, "reason": "Верно: 3 месяца, но ст.118 о возрасте приема."}
+{"id": "P001", "code": "F", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: 3 месяца."}
+{"id": "P001", "code": "G", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: 3 месяца, ст.130."}
+{"id": "P001", "code": "H", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: не более 3 месяцев."}
+{"id": "F012", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно: не устанавливается, ст.129."}
+{"id": "F012", "code": "B", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.118 о возрасте приема."}
+{"id": "F012", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно, ст.129."}
+{"id": "F012", "code": "D", "label": "correct", "citation_ok": null, "reason": "Верно: не устанавливается."}
+{"id": "F012", "code": "E", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.130 о сроке испытания."}
+{"id": "F012", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно: не устанавливается."}
+{"id": "F012", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно: не устанавливается."}
+{"id": "F012", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст.129."}
+{"id": "F070", "code": "A", "label": "wrong", "citation_ok": false, "reason": "Неверно: 7,2 часа вместо 7 ч 30 мин; ст.116, 184 не те."}
+{"id": "F070", "code": "B", "label": "wrong", "citation_ok": false, "reason": "Неверно: 7 часов; ссылка на старый кодекс."}
+{"id": "F070", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Неверно: 7 ч 12 мин."}
+{"id": "F070", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Неверно: 7 часов."}
+{"id": "F070", "code": "E", "label": "wrong", "citation_ok": false, "reason": "Неверно: 7 часов; ст.121 о совместной службе родственников."}
+{"id": "F070", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно: 7 ч 30 мин (с оговоркой о неуверенности)."}
+{"id": "F070", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Неверно: около 7,2 часа, дневной предел не назван."}
+{"id": "F070", "code": "H", "label": "wrong", "citation_ok": false, "reason": "Неверно: 7 часов; ст.414 о медосмотрах."}
+{"id": "P012", "code": "A", "label": "partially_correct", "citation_ok": null, "reason": "Отвергает 1,25, но называет двойной размер (старая редакция) вместо 1,5/2."}
+{"id": "P012", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Отвергает 1,25, но называет двойной размер (старая редакция)."}
+{"id": "P012", "code": "C", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: 1,5 за первые два часа, далее 2, ст.262."}
+{"id": "P012", "code": "D", "label": "premise_corrected", "citation_ok": false, "reason": "Верно: 1,5 и 2; ст.157 о соглашении сторон."}
+{"id": "P012", "code": "E", "label": "premise_accepted", "citation_ok": null, "reason": "Принимает предпосылку о 1,25 условно."}
+{"id": "P012", "code": "F", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: 150% и 200%, ст.262."}
+{"id": "P012", "code": "G", "label": "partially_correct", "citation_ok": true, "reason": "Отвергает 1,25, но называет 200% (старая редакция)."}
+{"id": "P012", "code": "H", "label": "partially_correct", "citation_ok": true, "reason": "Отвергает 1,25, но называет 200% (старая редакция)."}
+{"id": "F014", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно: 6 месяцев, ст.130."}
+{"id": "F014", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно: 6 месяцев, ст.130."}
+{"id": "F014", "code": "C", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.118 о возрасте приема."}
+{"id": "F014", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно: 6 месяцев, ст.130."}
+{"id": "F014", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно: до 6 месяцев (с оговоркой)."}
+{"id": "F014", "code": "F", "label": "correct", "citation_ok": false, "reason": "Верно; ссылка на старый кодекс."}
+{"id": "F014", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Неверно: отрицает особый срок, называет 3 месяца."}
+{"id": "F014", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно: 6 месяцев, ст.130."}
+{"id": "F018", "code": "A", "label": "correct", "citation_ok": null, "reason": "Верно: со следующего дня после получения заявления."}
+{"id": "F018", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно, ст.160."}
+{"id": "F018", "code": "C", "label": "correct", "citation_ok": null, "reason": "По сути верно: со следующего дня после подачи заявления."}
+{"id": "F018", "code": "D", "label": "correct", "citation_ok": true, "reason": "По сути верно: со следующего дня после письменного предупреждения, ст.160."}
+{"id": "F018", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно, ст.160."}
+{"id": "F018", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Неверно: со дня подачи заявления, а не со следующего дня."}
+{"id": "F018", "code": "G", "label": "correct", "citation_ok": false, "reason": "По сути верно, но ст.650 не существует."}
+{"id": "F018", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст.160."}
+{"id": "F029", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно: 40 часов, ст.182."}
+{"id": "F029", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно: 40 часов, ст.182."}
+{"id": "F029", "code": "C", "label": "correct", "citation_ok": null, "reason": "Верно: 40 часов."}
+{"id": "F029", "code": "D", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.181 о понятии рабочего времени."}
+{"id": "F029", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно: 40 часов, ст.182."}
+{"id": "F029", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно: 40 часов."}
+{"id": "F029", "code": "G", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.119 о незаконном отказе в приеме."}
+{"id": "F029", "code": "H", "label": "correct", "citation_ok": false, "reason": "Верно; ссылка на старый кодекс."}
+{"id": "F032", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно: не менее чем на один час, ст.187."}
+{"id": "F032", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно: не менее одного часа."}
+{"id": "F032", "code": "C", "label": "correct", "citation_ok": false, "reason": "Верно: на один час, но ст.186 о неполном рабочем времени."}
+{"id": "F032", "code": "D", "label": "correct", "citation_ok": null, "reason": "Верно: на 1 час."}
+{"id": "F032", "code": "E", "label": "correct", "citation_ok": false, "reason": "Верно; ссылка на старый кодекс."}
+{"id": "F032", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно: на 1 час."}
+{"id": "F032", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно: не менее одного часа."}
+{"id": "F032", "code": "H", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.122 о стадиях приема на работу."}
+{"id": "F036", "code": "A", "label": "correct", "citation_ok": null, "reason": "Верно: 30 минут - 2 часа, не включается."}
+{"id": "F036", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно, ст.204."}
+{"id": "F036", "code": "C", "label": "correct", "citation_ok": true, "reason": "По сути верно (неточная формулировка), ст.204."}
+{"id": "F036", "code": "D", "label": "correct", "citation_ok": null, "reason": "Верно: 30 минут - 2 часа, не включается."}
+{"id": "F036", "code": "E", "label": "partially_correct", "citation_ok": null, "reason": "Не назван минимум 30 минут."}
+{"id": "F036", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно, ст.204."}
+{"id": "F036", "code": "G", "label": "correct", "citation_ok": false, "reason": "Верно; ссылка на старый кодекс."}
+{"id": "F036", "code": "H", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.123 об ознакомительной процедуре (номер старого кодекса)."}
+{"id": "N005", "code": "A", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет (устаревшее число 581)."}
+{"id": "N005", "code": "B", "label": "correct_refusal", "citation_ok": null, "reason": "Ясно говорит, что статьи 650 нет."}
+{"id": "N005", "code": "C", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет (устаревшее число 581)."}
+{"id": "N005", "code": "D", "label": "partially_correct", "citation_ok": null, "reason": "Не приписывает содержание, но не говорит, что статьи нет."}
+{"id": "N005", "code": "E", "label": "partially_correct", "citation_ok": null, "reason": "Не приписывает содержание, но не говорит, что статьи нет."}
+{"id": "N005", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Не приписывает содержание, но не говорит, что статьи нет."}
+{"id": "N005", "code": "G", "label": "correct_refusal", "citation_ok": null, "reason": "Ясно говорит, что статьи 650 нет."}
+{"id": "N005", "code": "H", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет (устаревшее число 583)."}
+{"id": "F004", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно: 16 лет, ст.118."}
+{"id": "F004", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно: 16 лет, ст.118."}
+{"id": "F004", "code": "C", "label": "correct", "citation_ok": false, "reason": "Верно; ссылка на старый кодекс."}
+{"id": "F004", "code": "D", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.106 о форме трудового договора."}
+{"id": "F004", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно: 16 лет."}
+{"id": "F004", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно: 16 лет, ст.118."}
+{"id": "F004", "code": "G", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.77 (номер старого кодекса)."}
+{"id": "F004", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно: 16 лет."}
+{"id": "F015", "code": "A", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.118 о возрасте приема."}
+{"id": "F015", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно: не засчитывается."}
+{"id": "F015", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно, ст.130."}
+{"id": "F015", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Неверно: утверждает, что период болезни засчитывается."}
+{"id": "F015", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно, ст.130."}
+{"id": "F015", "code": "F", "label": "correct", "citation_ok": false, "reason": "Верно, но ст.131 о действии законодательства в период испытания."}
+{"id": "F015", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно: не засчитывается."}
+{"id": "F015", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно: не засчитывается."}
+{"id": "P007", "code": "A", "label": "premise_corrected", "citation_ok": true, "reason": "Верно: только часть сверх минимальной, ст.234."}
+{"id": "P007", "code": "B", "label": "wrong", "citation_ok": true, "reason": "Не отвергает предпосылку явно и называет чужое правило (сверх 14 дней с согласия работодателя)."}
+{"id": "P007", "code": "C", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: 21 день не заменяется, только сверх."}
+{"id": "P007", "code": "D", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: только часть сверх 21 дня."}
+{"id": "P007", "code": "E", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: только сверх минимальной продолжительности."}
+{"id": "P007", "code": "F", "label": "premise_corrected", "citation_ok": true, "reason": "Верно, ст.234."}
+{"id": "P007", "code": "G", "label": "premise_corrected", "citation_ok": false, "reason": "Верно, но ст.220 о дополнительном отпуске за стаж."}
+{"id": "P007", "code": "H", "label": "premise_corrected", "citation_ok": null, "reason": "Верно: только дни сверх минимума."}

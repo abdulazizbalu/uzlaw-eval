@@ -4,7 +4,7 @@ A small, verifiable benchmark of how chat assistants answer questions about the 
 
 ![Results](results/chart_ru_vs_uz.png)
 
-**Headline (v1, 5 Nov 2026):** ChatGPT answered 97/100 correctly in Russian and 94/100 in Uzbek. Gemini dropped from 81 to 61 when switching to Uzbek and started accepting false premises. Claude scored 62 in both languages and hedged instead of citing articles. DeepSeek scored 52 and 54, invented the content of 6 nonexistent articles in Russian and accepted most false premises. Full write-up: [results/REPORT.md](results/REPORT.md).
+**Headline (v1, 5 Nov 2026):** ChatGPT answered 99/100 correctly in Russian and 96/100 in Uzbek. Gemini dropped from 85 to 56 when switching to Uzbek and stopped pushing back on false premises. Claude scored 64 and 62 and hedged instead of citing articles. DeepSeek scored 48 and 47, invented the content of 6 nonexistent articles in Russian and accepted many false premises. All 800 answers were graded blind with one rubric. Full write-up: [results/REPORT.md](results/REPORT.md).
 
 ## Dataset
 
@@ -29,11 +29,14 @@ Source: Labor Code of the Republic of Uzbekistan of 28.10.2022, [lex.uz/docs/625
 - `prompts/`: the exact prompts sent to the assistants
 - `collect.py`, `report.py`: align answers and build the summary and charts
 - `results/`: raw answers, grades with reasons, report, charts
+- `regrade/`: blind grading packets, rubric, answer key, manual overrides
 
 ## Reproduce
 
 ```
 python3 build_dataset.py && python3 verify.py
+python3 regrade/build_packets.py   # blind packets for the judge
+python3 regrade/unblind.py         # after grading: map letters back to models
 python3 report.py
 ```
 

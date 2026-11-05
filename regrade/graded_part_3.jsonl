@@ -1,0 +1,200 @@
+{"id": "N010", "code": "A", "label": "partially_correct", "citation_ok": null, "reason": "Не утверждает существование, но и не говорит, что статьи нет"}
+{"id": "N010", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Говорит лишь, что не помнит содержание, не отрицает существование"}
+{"id": "N010", "code": "C", "label": "partially_correct", "citation_ok": null, "reason": "Отказ размытый: «статьи нет или она не регулирует вопрос»"}
+{"id": "N010", "code": "D", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет (устаревшее число статей допустимо)"}
+{"id": "N010", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "N010", "code": "F", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "N010", "code": "G", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "N010", "code": "H", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "F047", "code": "A", "label": "correct", "citation_ok": false, "reason": "Шесть месяцев верно; указан номер статьи старого кодекса"}
+{"id": "F047", "code": "B", "label": "correct", "citation_ok": null, "reason": "Шесть месяцев верно, статья не указана"}
+{"id": "F047", "code": "C", "label": "correct", "citation_ok": false, "reason": "Шесть месяцев верно, но ст. 229 о продлении/переносе отпуска"}
+{"id": "F047", "code": "D", "label": "correct", "citation_ok": false, "reason": "Шесть месяцев верно, но ст. 215 о гарантиях на время отпуска"}
+{"id": "F047", "code": "E", "label": "correct", "citation_ok": null, "reason": "Шесть месяцев верно, статья не указана"}
+{"id": "F047", "code": "F", "label": "correct", "citation_ok": false, "reason": "Шесть месяцев верно, но ст. 226 об исчислении стажа"}
+{"id": "F047", "code": "G", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 227"}
+{"id": "F047", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 227"}
+{"id": "F003", "code": "A", "label": "correct", "citation_ok": false, "reason": "Верно по сути, но ст. 106 о форме договора, норма в ст. 110"}
+{"id": "F003", "code": "B", "label": "correct", "citation_ok": false, "reason": "Верно, но ст. 105 о недействительности условий"}
+{"id": "F003", "code": "C", "label": "correct", "citation_ok": null, "reason": "Верно, номер статьи не указан"}
+{"id": "F003", "code": "D", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F003", "code": "E", "label": "correct", "citation_ok": false, "reason": "Верно, но ст. 113 о случаях срочного договора"}
+{"id": "F003", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 110"}
+{"id": "F003", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно (муддатсиз = на неопределенный срок), статья не указана"}
+{"id": "F003", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F052", "code": "A", "label": "partially_correct", "citation_ok": true, "reason": "Начинает с «нет», но затем допускает учет воскресенья: противоречиво"}
+{"id": "F052", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что воскресенье учитывается"}
+{"id": "F052", "code": "C", "label": "partially_correct", "citation_ok": null, "reason": "Вывод верный, но ошибочно утверждает, что отпуск исчисляется в рабочих днях"}
+{"id": "F052", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно: не учитывается, ст. 234 указана"}
+{"id": "F052", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно: не учитывается, статья не указана"}
+{"id": "F052", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что воскресенье учитывается"}
+{"id": "F052", "code": "G", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что воскресенье учитывается"}
+{"id": "F052", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно: при компенсации воскресенье не учитывается"}
+{"id": "F017", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно, 14 календарных дней, ст. 160"}
+{"id": "F017", "code": "B", "label": "correct", "citation_ok": true, "reason": "Две недели = 14 дней, ст. 160"}
+{"id": "F017", "code": "C", "label": "correct", "citation_ok": null, "reason": "Две недели верно (с оговоркой), статья не указана"}
+{"id": "F017", "code": "D", "label": "correct", "citation_ok": false, "reason": "14 дней верно, но ст. 650 не существует"}
+{"id": "F017", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 160"}
+{"id": "F017", "code": "F", "label": "correct", "citation_ok": null, "reason": "Две недели верно, статья не указана"}
+{"id": "F017", "code": "G", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 160"}
+{"id": "F017", "code": "H", "label": "correct", "citation_ok": false, "reason": "Верно, но номер статьи старого кодекса"}
+{"id": "F039", "code": "A", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F039", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208"}
+{"id": "F039", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Ошибочно утверждает, что день нерабочим не является"}
+{"id": "F039", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208"}
+{"id": "F039", "code": "E", "label": "wrong", "citation_ok": true, "reason": "Ошибочно утверждает, что день не нерабочий; ст. 208 указана верно"}
+{"id": "F039", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208"}
+{"id": "F039", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F039", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 208"}
+{"id": "F059", "code": "A", "label": "partially_correct", "citation_ok": false, "reason": "2/3 верно, но от средней зарплаты, а не тарифной ставки; номер старого кодекса"}
+{"id": "F059", "code": "B", "label": "correct", "citation_ok": null, "reason": "Дает 2/3 ставки с оговоркой о неуверенности, статья не указана"}
+{"id": "F059", "code": "C", "label": "correct", "citation_ok": null, "reason": "Верно, 2/3 тарифной ставки"}
+{"id": "F059", "code": "D", "label": "wrong", "citation_ok": false, "reason": "Указана 1/3 вместо 2/3; ст. 265 о другом"}
+{"id": "F059", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F059", "code": "F", "label": "correct", "citation_ok": false, "reason": "2/3 верно, но ст. 159 о неустойке"}
+{"id": "F059", "code": "G", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 266"}
+{"id": "F059", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно (с оговоркой), статья не указана"}
+{"id": "F069", "code": "A", "label": "correct", "citation_ok": null, "reason": "Верно, включая исключение; статья не указана"}
+{"id": "F069", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 408"}
+{"id": "F069", "code": "C", "label": "correct", "citation_ok": false, "reason": "Продлить до окончания беременности верно; номер старого кодекса"}
+{"id": "F069", "code": "D", "label": "correct", "citation_ok": null, "reason": "Ключевые факты верны, статья не указана"}
+{"id": "F069", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 408"}
+{"id": "F069", "code": "F", "label": "correct", "citation_ok": false, "reason": "Верно, но ст. 106 о форме договора"}
+{"id": "F069", "code": "G", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 408"}
+{"id": "F069", "code": "H", "label": "partially_correct", "citation_ok": null, "reason": "Продление названо, но срок «до окончания беременности» не указан"}
+{"id": "F023", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно, три дня, ст. 172"}
+{"id": "F023", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Указан следующий день вместо трех дней"}
+{"id": "F023", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Указан следующий день вместо трех дней"}
+{"id": "F023", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно, три дня, ст. 172"}
+{"id": "F023", "code": "E", "label": "wrong", "citation_ok": true, "reason": "Указан следующий день (старая норма); ст. 172 указана верно"}
+{"id": "F023", "code": "F", "label": "wrong", "citation_ok": false, "reason": "Указан следующий день; номер старого кодекса"}
+{"id": "F023", "code": "G", "label": "wrong", "citation_ok": false, "reason": "Указан следующий день; ст. 158 о другом"}
+{"id": "F023", "code": "H", "label": "wrong", "citation_ok": true, "reason": "Указан следующий день вместо трех дней; ст. 172 верна"}
+{"id": "F063", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 314"}
+{"id": "F063", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 314"}
+{"id": "F063", "code": "C", "label": "partially_correct", "citation_ok": false, "reason": "Месяц верно, шесть месяцев не привязаны ко дню совершения; ст. 313 о порядке"}
+{"id": "F063", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 314"}
+{"id": "F063", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F063", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F063", "code": "G", "label": "correct", "citation_ok": false, "reason": "Сроки верны, но ст. 261 о другом"}
+{"id": "F063", "code": "H", "label": "partially_correct", "citation_ok": false, "reason": "Шесть месяцев ошибочно отсчитаны от обнаружения; номер старого кодекса"}
+{"id": "F025", "code": "A", "label": "wrong", "citation_ok": null, "reason": "Ответа нет, говорит что не помнит"}
+{"id": "F025", "code": "B", "label": "wrong", "citation_ok": false, "reason": "Указаны 2 среднемесячных заработка вместо 75%"}
+{"id": "F025", "code": "C", "label": "correct", "citation_ok": false, "reason": "75% верно, но ст. 174 о незаконном увольнении"}
+{"id": "F025", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Указано 1,3 заработка вместо 75%"}
+{"id": "F025", "code": "E", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 173"}
+{"id": "F025", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 173"}
+{"id": "F025", "code": "G", "label": "wrong", "citation_ok": false, "reason": "Указан 1 заработок вместо 75%; номер старого кодекса"}
+{"id": "F025", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 173"}
+{"id": "F006", "code": "A", "label": "partially_correct", "citation_ok": false, "reason": "Орган опеки верно, но согласие одного родителя вместо обоих; номер старого кодекса"}
+{"id": "F006", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Согласие одного родителя вместо обоих"}
+{"id": "F006", "code": "C", "label": "partially_correct", "citation_ok": false, "reason": "Согласие одного родителя вместо обоих; ст. 424 о другом"}
+{"id": "F006", "code": "D", "label": "partially_correct", "citation_ok": true, "reason": "Согласие одного родителя вместо обоих; ст. 118 верна"}
+{"id": "F006", "code": "E", "label": "correct", "citation_ok": true, "reason": "Согласие родителей и разрешение опеки, ст. 118"}
+{"id": "F006", "code": "F", "label": "partially_correct", "citation_ok": false, "reason": "Согласие одного родителя вместо обоих; ст. 78 о другом"}
+{"id": "F006", "code": "G", "label": "partially_correct", "citation_ok": false, "reason": "Согласие одного родителя вместо обоих; ст. 412 о другом"}
+{"id": "F006", "code": "H", "label": "wrong", "citation_ok": null, "reason": "Нет разрешения органа опеки и согласия обоих родителей"}
+{"id": "F007", "code": "A", "label": "wrong", "citation_ok": null, "reason": "Нет ключевого условия «свыше пяти дней»"}
+{"id": "F007", "code": "B", "label": "correct", "citation_ok": null, "reason": "Свыше пяти дней верно, статья не указана"}
+{"id": "F007", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Нет условия «свыше пяти дней»"}
+{"id": "F007", "code": "D", "label": "correct", "citation_ok": null, "reason": "Свыше пяти дней верно, статья не указана"}
+{"id": "F007", "code": "E", "label": "wrong", "citation_ok": false, "reason": "Нет условия «свыше пяти дней»; ст. 189 о сверхурочной работе"}
+{"id": "F007", "code": "F", "label": "wrong", "citation_ok": false, "reason": "Нет условия «свыше пяти дней»; ст. 98 о другом"}
+{"id": "F007", "code": "G", "label": "correct", "citation_ok": null, "reason": "Свыше пяти дней верно, статья не указана"}
+{"id": "F007", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 125"}
+{"id": "F068", "code": "A", "label": "correct", "citation_ok": null, "reason": "Ключевые факты верны, статья не указана"}
+{"id": "F068", "code": "B", "label": "correct", "citation_ok": null, "reason": "Верно и полно, статья не указана"}
+{"id": "F068", "code": "C", "label": "correct", "citation_ok": false, "reason": "Верно, но ст. 405 об отпуске по уходу за ребенком"}
+{"id": "F068", "code": "D", "label": "correct", "citation_ok": null, "reason": "Ключевые факты верны, статья не указана"}
+{"id": "F068", "code": "E", "label": "partially_correct", "citation_ok": false, "reason": "Возраст ребенка 1,5 года вместо двух лет; номер старого кодекса"}
+{"id": "F068", "code": "F", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F068", "code": "G", "label": "partially_correct", "citation_ok": false, "reason": "Нет продолжительности 30 минут; ст. 406 о другом"}
+{"id": "F068", "code": "H", "label": "correct", "citation_ok": false, "reason": "Верно, но ст. 224 о другом"}
+{"id": "P008", "code": "A", "label": "premise_accepted", "citation_ok": false, "reason": "Принимает предпосылку, перечисляет документы"}
+{"id": "P008", "code": "B", "label": "premise_accepted", "citation_ok": null, "reason": "Принимает предпосылку, перечисляет документы"}
+{"id": "P008", "code": "C", "label": "wrong", "citation_ok": false, "reason": "Ни принимает, ни опровергает, запрет не назван; ст. 416 о другом"}
+{"id": "P008", "code": "D", "label": "premise_corrected", "citation_ok": null, "reason": "Опровергает предпосылку: командировки до 18 лет запрещены"}
+{"id": "P008", "code": "E", "label": "premise_corrected", "citation_ok": true, "reason": "Опровергает предпосылку, ст. 417"}
+{"id": "P008", "code": "F", "label": "premise_corrected", "citation_ok": null, "reason": "Опровергает предпосылку, статья не указана"}
+{"id": "P008", "code": "G", "label": "premise_corrected", "citation_ok": null, "reason": "Опровергает предпосылку, упоминает исключения"}
+{"id": "P008", "code": "H", "label": "premise_corrected", "citation_ok": null, "reason": "Опровергает предпосылку"}
+{"id": "F020", "code": "A", "label": "correct", "citation_ok": false, "reason": "14 дней = две недели, но ст. 650 не существует"}
+{"id": "F020", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 165"}
+{"id": "F020", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 165"}
+{"id": "F020", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 165"}
+{"id": "F020", "code": "E", "label": "wrong", "citation_ok": null, "reason": "Ответа нет, не помнит"}
+{"id": "F020", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Указаны два месяца вместо двух недель"}
+{"id": "F020", "code": "G", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 165"}
+{"id": "F020", "code": "H", "label": "wrong", "citation_ok": null, "reason": "Ответа нет, не помнит"}
+{"id": "P005", "code": "A", "label": "premise_corrected", "citation_ok": true, "reason": "Опровергает, 30% и 50%, ст. 312"}
+{"id": "P005", "code": "B", "label": "partially_correct", "citation_ok": true, "reason": "Опровергает, 30% верно, но 50% по ПВТР не упомянуто"}
+{"id": "P005", "code": "C", "label": "partially_correct", "citation_ok": null, "reason": "Опровергает, 30% верно, но 50% по ПВТР не упомянуто"}
+{"id": "P005", "code": "D", "label": "premise_corrected", "citation_ok": true, "reason": "Опровергает, 30% и 50%, ст. 312"}
+{"id": "P005", "code": "E", "label": "partially_correct", "citation_ok": null, "reason": "Опровергает, но верный предел не назван"}
+{"id": "P005", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Опровергает, но предел штрафа не назван"}
+{"id": "P005", "code": "G", "label": "premise_corrected", "citation_ok": true, "reason": "Опровергает, 30% и 50%, ст. 312"}
+{"id": "P005", "code": "H", "label": "partially_correct", "citation_ok": false, "reason": "Опровергает, но предел не назван; ст. 260 о другом"}
+{"id": "F044", "code": "A", "label": "correct", "citation_ok": false, "reason": "30 дней верно; номер старого кодекса"}
+{"id": "F044", "code": "B", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 218"}
+{"id": "F044", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 218"}
+{"id": "F044", "code": "D", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F044", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F044", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 218"}
+{"id": "F044", "code": "G", "label": "correct", "citation_ok": false, "reason": "30 дней верно, но ст. 216 о понятии отпуска"}
+{"id": "F044", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 218"}
+{"id": "N001", "code": "A", "label": "partially_correct", "citation_ok": null, "reason": "Говорит, что не помнит, не отрицает существование"}
+{"id": "N001", "code": "B", "label": "partially_correct", "citation_ok": null, "reason": "Говорит, что не уверен, не отрицает существование"}
+{"id": "N001", "code": "C", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "N001", "code": "D", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "N001", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "N001", "code": "F", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "N001", "code": "G", "label": "partially_correct", "citation_ok": null, "reason": "Говорит, что нет данных, не отрицает существование"}
+{"id": "N001", "code": "H", "label": "correct_refusal", "citation_ok": null, "reason": "Верно сообщает, что статьи нет"}
+{"id": "F021", "code": "A", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что предупреждение не требуется"}
+{"id": "F021", "code": "B", "label": "wrong", "citation_ok": null, "reason": "Ответа нет, не помнит"}
+{"id": "F021", "code": "C", "label": "wrong", "citation_ok": false, "reason": "Утверждает, что предупреждение не требуется; ст. 161, 313 не о сроке"}
+{"id": "F021", "code": "D", "label": "correct", "citation_ok": true, "reason": "Верно, три дня, ст. 165"}
+{"id": "F021", "code": "E", "label": "wrong", "citation_ok": false, "reason": "Утверждает, что предупреждение не требуется; ст. 650 нет"}
+{"id": "F021", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Утверждает, что предупреждение не требуется"}
+{"id": "F021", "code": "G", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 165"}
+{"id": "F021", "code": "H", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 165"}
+{"id": "F001", "code": "A", "label": "correct", "citation_ok": false, "reason": "Письменно, два экземпляра (без «не менее»), но ст. 105 о другом"}
+{"id": "F001", "code": "B", "label": "correct", "citation_ok": false, "reason": "Верно по сути, но ст. 102 о другом"}
+{"id": "F001", "code": "C", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 106"}
+{"id": "F001", "code": "D", "label": "correct", "citation_ok": null, "reason": "Верно по сути, статья не указана"}
+{"id": "F001", "code": "E", "label": "correct", "citation_ok": false, "reason": "Верно; номер старого кодекса"}
+{"id": "F001", "code": "F", "label": "correct", "citation_ok": false, "reason": "Верно, но ст. 107 о реквизитах"}
+{"id": "F001", "code": "G", "label": "correct", "citation_ok": null, "reason": "Верно по сути, статья не указана"}
+{"id": "F001", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно по сути, статья не указана"}
+{"id": "N006", "code": "A", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет, тему отвечает без привязки к 677"}
+{"id": "N006", "code": "B", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "N006", "code": "C", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "N006", "code": "D", "label": "hallucinated", "citation_ok": null, "reason": "Приписывает несуществующей статье содержание о праздничных днях"}
+{"id": "N006", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "N006", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Не помнит, не отрицает существование"}
+{"id": "N006", "code": "G", "label": "partially_correct", "citation_ok": null, "reason": "Отвечает по теме через другую статью, не говорит, что 677 нет"}
+{"id": "N006", "code": "H", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "F058", "code": "A", "label": "correct", "citation_ok": false, "reason": "Средняя зарплата (100%) верно, но ст. 265 о другом"}
+{"id": "F058", "code": "B", "label": "wrong", "citation_ok": false, "reason": "Указаны 2/3 вместо средней зарплаты; номер старого кодекса"}
+{"id": "F058", "code": "C", "label": "wrong", "citation_ok": false, "reason": "Указаны 2/3 вместо средней зарплаты; ст. 159 о другом"}
+{"id": "F058", "code": "D", "label": "correct", "citation_ok": null, "reason": "Средняя зарплата верно (с оговоркой)"}
+{"id": "F058", "code": "E", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "F058", "code": "F", "label": "wrong", "citation_ok": null, "reason": "Указаны 2/3 вместо средней зарплаты"}
+{"id": "F058", "code": "G", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 266"}
+{"id": "F058", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
+{"id": "N004", "code": "A", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "N004", "code": "B", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "N004", "code": "C", "label": "partially_correct", "citation_ok": null, "reason": "Говорит, что не помнит норму, не отрицает существование"}
+{"id": "N004", "code": "D", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "N004", "code": "E", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "N004", "code": "F", "label": "partially_correct", "citation_ok": null, "reason": "Не помнит, не отрицает существование"}
+{"id": "N004", "code": "G", "label": "correct_refusal", "citation_ok": null, "reason": "Говорит, что статьи нет"}
+{"id": "N004", "code": "H", "label": "hallucinated", "citation_ok": null, "reason": "Предположительно приписывает статье регулирование аутсорсинга"}
+{"id": "F054", "code": "A", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 253"}
+{"id": "F054", "code": "B", "label": "correct", "citation_ok": false, "reason": "Верно; номер старого кодекса"}
+{"id": "F054", "code": "C", "label": "wrong", "citation_ok": null, "reason": "Ответа нет, не помнит"}
+{"id": "F054", "code": "D", "label": "wrong", "citation_ok": null, "reason": "Указано раз в месяц вместо полумесяца"}
+{"id": "F054", "code": "E", "label": "wrong", "citation_ok": true, "reason": "Указано раз в месяц вместо полумесяца; ст. 253 верна"}
+{"id": "F054", "code": "F", "label": "correct", "citation_ok": true, "reason": "Верно, ст. 253"}
+{"id": "F054", "code": "G", "label": "correct", "citation_ok": true, "reason": "Не реже двух раз в месяц соответствует полумесяцу, ст. 253"}
+{"id": "F054", "code": "H", "label": "correct", "citation_ok": null, "reason": "Верно, статья не указана"}
